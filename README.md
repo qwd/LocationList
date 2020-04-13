@@ -5,7 +5,7 @@
 - 请使用[城市查询接口](https://dev.heweather.com/docs/geo/)获取更多城市信息，或保持城市数据更新。
 - 本文档不定期更新。
 
-# Heweather Lcoation List
+# Heweather Location List
 
 We provides weather data service for 150,000 cities around the world, get the weather data using the Location ID in these lists.
 
