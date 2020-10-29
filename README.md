@@ -9,5 +9,5 @@
 
 We provides weather data service for 150,000 cities around the world, get the weather data using the Location ID in these lists.
 
-- Please use the [Geo Loopup API](https://dev.qweather.com/docs/api/geo) to get all location information and keep the them up to date.
+- Please use the [Geo Lookup API](https://dev.qweather.com/docs/api/geo) to get all location information and keep the them up to date.
 - This list will be updated as needed.
