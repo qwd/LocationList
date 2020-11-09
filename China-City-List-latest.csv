@@ -1,6 +1,6 @@
 China-City-List v2.3 update by 2020-10-29,,,,,,,,,,,,
 Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,Adm1_EN,一级行政区划(Adm1),Adm2_EN,二级行政区划(Adm2),Latitude,Longitude,AD_code
-101010100,Beijing,北京,CN,China,中国,Beijing,北京市,Beijing,北京,39.904987,116.405289,100000 | 110000 | 110100
+101010100,Beijing,北京,CN,China,中国,Beijing,北京市,Beijing,北京,39.904987,116.405289,110000 | 110100
 101010200,Haidian,海淀,CN,China,中国,Beijing,北京市,Beijing,北京,39.956074,116.310318,110108
 101010300,Chaoyang,朝阳,CN,China,中国,Beijing,北京市,Beijing,北京,39.921490,116.486412,110105
 101010400,Shunyi,顺义,CN,China,中国,Beijing,北京市,Beijing,北京,40.128937,116.653526,110113
@@ -51,7 +51,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101031500,Nankai,南开,CN,China,中国,Tianjin,天津市,Tianjin,天津,39.120476,117.164146,120104
 101031600,Hebei,河北,CN,China,中国,Tianjin,天津市,Tianjin,天津,39.156631,117.201569,120105
 101031700,Hongqiao,红桥,CN,China,中国,Tianjin,天津市,Tianjin,天津,39.175068,117.163300,120106
-101040100,Chongqing,重庆,CN,China,中国,Chongqing,重庆市,Chongqing,重庆,29.563761,106.550461,500000 | 500100 | 500200
+101040100,Chongqing,重庆,CN,China,中国,Chongqing,重庆市,Chongqing,重庆,29.563761,106.550461,500000 | 500100
 101040200,Yongchuan,永川,CN,China,中国,Chongqing,重庆市,Chongqing,重庆,29.348747,105.894714,500118
 101040300,Hechuan,合川,CN,China,中国,Chongqing,重庆市,Chongqing,重庆,29.990994,106.265556,500117
 101040400,Nanchuan,南川,CN,China,中国,Chongqing,重庆市,Chongqing,重庆,29.156647,107.098152,500119
@@ -90,7 +90,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101043900,Jiulongpo,九龙坡,CN,China,中国,Chongqing,重庆市,Chongqing,重庆,29.523493,106.480988,500107
 101044000,Nanan,南岸,CN,China,中国,Chongqing,重庆市,Chongqing,重庆,29.523993,106.560814,500108
 101044100,Kaizhou,开州,CN,China,中国,Chongqing,重庆市,Chongqing,重庆,31.167734,108.413315,500154
-101050101,Haerbin,哈尔滨,CN,China,中国,Heilongjiang,黑龙江省,Haerbin,哈尔滨,45.756966,126.642464,230000 | 230100 | 230101
+101050101,Haerbin,哈尔滨,CN,China,中国,Heilongjiang,黑龙江省,Haerbin,哈尔滨,45.756966,126.642464,230100 | 230101
 101050102,Shuangcheng,双城,CN,China,中国,Heilongjiang,黑龙江省,Haerbin,哈尔滨,45.377941,126.308784,230113
 101050103,Hulan,呼兰,CN,China,中国,Heilongjiang,黑龙江省,Haerbin,哈尔滨,45.984230,126.603302,230111
 101050104,Acheng,阿城,CN,China,中国,Heilongjiang,黑龙江省,Haerbin,哈尔滨,45.538372,126.972725,230112
@@ -233,7 +233,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101051307,Lingdong,岭东,CN,China,中国,Heilongjiang,黑龙江省,Shuangyashan,双鸭山,46.591076,131.163681,230503
 101051308,Sifangtai,四方台,CN,China,中国,Heilongjiang,黑龙江省,Shuangyashan,双鸭山,46.594345,131.333176,230505
 101051309,Baoshan,宝山,CN,China,中国,Heilongjiang,黑龙江省,Shuangyashan,双鸭山,46.573364,131.404297,230506
-101060101,Changchun,长春,CN,China,中国,Jilin,吉林省,Changchun,长春,43.886841,125.324501,220000 | 220100 | 220101
+101060101,Changchun,长春,CN,China,中国,Jilin,吉林省,Changchun,长春,43.886841,125.324501,220100 | 220101
 101060102,Nongan,农安,CN,China,中国,Jilin,吉林省,Changchun,长春,44.431259,125.175285,220122
 101060103,Dehui,德惠,CN,China,中国,Jilin,吉林省,Changchun,长春,44.533909,125.703323,220183
 101060104,Jiutai,九台,CN,China,中国,Jilin,吉林省,Changchun,长春,44.157154,125.844681,220113
@@ -303,7 +303,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101060906,Fusong,抚松,CN,China,中国,Jilin,吉林省,Baishan,白山,42.332642,127.273796,220621
 101060907,Jiangyuan,江源,CN,China,中国,Jilin,吉林省,Baishan,白山,42.048107,126.584229,220605
 101060908,Hunjiang,浑江,CN,China,中国,Jilin,吉林省,Baishan,白山,41.943066,126.428032,220602
-101070101,Shenyang,沈阳,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳,41.796768,123.429092,210000 | 210100 | 210101
+101070101,Shenyang,沈阳,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳,41.796768,123.429092,210100 | 210101
 101070102,Hunnan,浑南,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳,41.741947,123.458984,210112
 101070103,Liaozhong,辽中,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳,41.512726,122.731270,210115
 101070104,Kangping,康平,CN,China,中国,Liaoning,辽宁省,Shenyang,沈阳,42.741531,123.352699,210123
@@ -413,7 +413,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101071405,Lianshan,连山,CN,China,中国,Liaoning,辽宁省,Huludao,葫芦岛,40.755142,120.859367,211402
 101071406,Longgang,龙港,CN,China,中国,Liaoning,辽宁省,Huludao,葫芦岛,40.709991,120.838570,211403
 101071407,Nanpiao,南票,CN,China,中国,Liaoning,辽宁省,Huludao,葫芦岛,41.098812,120.752312,211404
-101080101,Huhehaote,呼和浩特,CN,China,中国,Neimenggu,内蒙古自治区,Huhehaote,呼和浩特,40.818310,111.670799,150000 | 150100 | 150101
+101080101,Huhehaote,呼和浩特,CN,China,中国,Neimenggu,内蒙古自治区,Huhehaote,呼和浩特,40.818310,111.670799,150100 | 150101
 101080102,Tuzuoqi,土左旗,CN,China,中国,Neimenggu,内蒙古自治区,Huhehaote,呼和浩特,40.410000,111.089996,150121
 101080103,Tuoxian,托县,CN,China,中国,Neimenggu,内蒙古自治区,Huhehaote,呼和浩特,40.160000,111.110001,150122
 101080104,Helin,和林,CN,China,中国,Neimenggu,内蒙古自治区,Huhehaote,呼和浩特,40.380287,111.824142,150123
@@ -557,7 +557,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101081211,Wusitai,乌斯太,CN,China,中国,Neimenggu,内蒙古自治区,Alashanmeng,阿拉善盟,39.435158,106.719490,
 101081212,Luanjingtan,孪井滩,CN,China,中国,Neimenggu,内蒙古自治区,Alashanmeng,阿拉善盟,37.885368,105.403366,
 101081213,Alashanmeng,阿拉善盟,CN,China,中国,Namenggu,内蒙古自治区,Alashanmeng,阿拉善盟,38.844814,105.706421,152900
-101090101,Shijiazhuang,石家庄,CN,China,中国,Hebei,河北省,Shijiazhuang,石家庄,38.045475,114.502464,130000 | 130100 | 130101
+101090101,Shijiazhuang,石家庄,CN,China,中国,Hebei,河北省,Shijiazhuang,石家庄,38.045475,114.502464,130100 | 130101
 101090102,Jingxing,井陉,CN,China,中国,Hebei,河北省,Shijiazhuang,石家庄,38.033615,114.144485,130121
 101090103,Zhengding,正定,CN,China,中国,Hebei,河北省,Shijiazhuang,石家庄,38.147835,114.569885,130123
 101090104,Luancheng,栾城,CN,China,中国,Hebei,河北省,Shijiazhuang,石家庄,37.886909,114.654282,130111
@@ -736,7 +736,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101091202,Rongcheng,容城,CN,China,中国,Hebei,河北省,Rongcheng,雄安新区,39.052818,115.866249,130629
 101091203,Anxin,安新,CN,China,中国,Hebei,河北省,Anxin,雄安新区,38.929913,115.931976,130632
 101091204,Xiongxian,雄县,CN,China,中国,Hebei,河北省,Xiongxian,雄安新区,38.990818,116.107475,
-101100101,Taiyuan,太原,CN,China,中国,Shanxi,山西省,Taiyuan,太原,37.857014,112.549248,140000 | 140100 | 140101
+101100101,Taiyuan,太原,CN,China,中国,Shanxi,山西省,Taiyuan,太原,37.857014,112.549248,140100 | 140101
 101100102,Qingxu,清徐,CN,China,中国,Shanxi,山西省,Taiyuan,太原,37.607288,112.357964,140121
 101100103,Yangqu,阳曲,CN,China,中国,Shanxi,山西省,Taiyuan,太原,38.058796,112.673821,140122
 101100104,Loufan,娄烦,CN,China,中国,Shanxi,山西省,Taiyuan,太原,38.066036,111.793800,140123
@@ -862,7 +862,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101101111,Fenyang,汾阳,CN,China,中国,Shanxi,山西省,Lvliang,吕梁,37.267742,111.785271,141182
 101101112,Wenshui,文水,CN,China,中国,Shanxi,山西省,Lvliang,吕梁,37.436314,112.032593,141121
 101101113,Jiaocheng,交城,CN,China,中国,Shanxi,山西省,Lvliang,吕梁,37.555157,112.159157,141122
-101110101,Xian,西安,CN,China,中国,Shaanxi,陕西省,Xian,西安,34.263161,108.948021,610000 | 610100 | 610101
+101110101,Xian,西安,CN,China,中国,Shaanxi,陕西省,Xian,西安,34.263161,108.948021,610100 | 610101
 101110102,Changan,长安,CN,China,中国,Shaanxi,陕西省,Xian,西安,34.157097,108.941582,610116
 101110103,Lintong,临潼,CN,China,中国,Shaanxi,陕西省,Xian,西安,34.372067,109.213989,610115
 101110104,Lantian,蓝田,CN,China,中国,Shaanxi,陕西省,Xian,西安,34.156189,109.317635,610122
@@ -980,7 +980,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101111006,Yintai,印台,CN,China,中国,Shaanxi,陕西省,Tongchuan,铜川,35.111927,109.100815,610203
 101111101,Yangling,杨凌,CN,China,中国,Shaanxi,陕西省,Yangling,杨凌,34.279999,108.070000,
 101111102,Yangling,杨陵,CN,China,中国,Shaanxi,陕西省,Yangling,杨凌,34.271351,108.086349,610403
-101120101,Jinan,济南,CN,China,中国,Shandong,山东省,Jinan,济南,36.675808,117.000923,370000 | 370100 | 370101
+101120101,Jinan,济南,CN,China,中国,Shandong,山东省,Jinan,济南,36.675808,117.000923,370100 | 370101
 101120102,Changqing,长清,CN,China,中国,Shandong,山东省,Jinan,济南,36.561050,116.745880,370113
 101120103,Shanghe,商河,CN,China,中国,Shandong,山东省,Jinan,济南,37.310543,117.156372,370126
 101120104,Zhangqiu,章丘,CN,China,中国,Shandong,山东省,Jinan,济南,36.712090,117.540688,370114
@@ -1136,7 +1136,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101121707,Linqing,临清,CN,China,中国,Shandong,山东省,Liaocheng,聊城,36.842598,115.713463,371581
 101121708,Dongchangfu,东昌府,CN,China,中国,Shandong,山东省,Liaocheng,聊城,36.456059,115.980026,371502
 101121709,Shenxian,莘县,CN,China,中国,Shandong,山东省,Liaocheng,聊城,36.237598,115.667290,371522
-101130101,Wulumuqi,乌鲁木齐,CN,China,中国,Xinjiang,新疆维吾尔自治区,Wulumuqi,乌鲁木齐,43.792816,87.617729,650000 | 650100 | 650101
+101130101,Wulumuqi,乌鲁木齐,CN,China,中国,Xinjiang,新疆维吾尔自治区,Wulumuqi,乌鲁木齐,43.792816,87.617729,650100 | 650101
 101130102,Tianshan,天山,CN,China,中国,Xinjiang,新疆维吾尔自治区,Wulumuqi,乌鲁木齐,43.796429,87.620117,650102
 101130103,Xiaoquzi,小渠子,CN,China,中国,Xinjiang,新疆维吾尔自治区,Wulumuqi,乌鲁木齐,43.515820,87.122833,
 101130104,Shayibake,沙依巴克,CN,China,中国,Xinjiang,新疆维吾尔自治区,Wulumuqi,乌鲁木齐,43.788872,87.596642,650103
@@ -1257,7 +1257,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101132101,Beitun,北屯,CN,China,中国,Xinjiang,新疆维吾尔自治区,Beitun,北屯,47.353176,87.824928,659005
 101132201,Shuanghe,双河,CN,China,中国,Xinjiang,新疆维吾尔自治区,Shuanghe,双河,44.840523,82.353653,659007
 101132301,Kekedala,可克达拉,CN,China,中国,Xinjiang,新疆维吾尔自治区,Kekedala,可克达拉,43.683201,80.635788,659008
-101140101,Lasa,拉萨,CN,China,中国,Xizang,西藏自治区,Lasa,拉萨,29.660360,91.132210,540000 | 540100 | 540101
+101140101,Lasa,拉萨,CN,China,中国,Xizang,西藏自治区,Lasa,拉萨,29.660360,91.132210,540100 | 540101
 101140102,Dangxiong,当雄,CN,China,中国,Xizang,西藏自治区,Lasa,拉萨,30.474819,91.103554,540122
 101140103,Nimu,尼木,CN,China,中国,Xizang,西藏自治区,Lasa,拉萨,29.431347,90.165543,540123
 101140104,Linzhou,林周,CN,China,中国,Xizang,西藏自治区,Lasa,拉萨,29.895754,91.261841,540121
@@ -1341,7 +1341,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101140708,Ritu,日土,CN,China,中国,Xizang,西藏自治区,Ali,阿里,33.382454,79.731934,542524
 101140709,Geji,革吉,CN,China,中国,Xizang,西藏自治区,Ali,阿里,32.389191,81.142899,542525
 101140710,Cuoqin,措勤,CN,China,中国,Xizang,西藏自治区,Ali,阿里,31.016773,85.159256,542527
-101150101,Xining,西宁,CN,China,中国,Qinghai,青海省,Xining,西宁,36.623177,101.778915,630000 | 630100 | 630101
+101150101,Xining,西宁,CN,China,中国,Qinghai,青海省,Xining,西宁,36.623177,101.778915,630100 | 630101
 101150102,Datong,大通,CN,China,中国,Qinghai,青海省,Xining,西宁,36.931343,101.684181,630121
 101150103,Huangyuan,湟源,CN,China,中国,Qinghai,青海省,Xining,西宁,36.684818,101.263435,630123
 101150104,Huangzhong,湟中,CN,China,中国,Qinghai,青海省,Xining,西宁,36.500420,101.569473,630106
@@ -1394,7 +1394,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101150803,Qilian,祁连,CN,China,中国,Qinghai,青海省,Haibei,海北,38.175407,100.249779,632222
 101150804,Haibei,海北,CN,China,中国,Qinghai,青海省,Haibei,海北,36.959435,100.901062,632200
 101150806,Gangcha,刚察,CN,China,中国,Qinghai,青海省,Haibei,海北,37.326263,100.138420,632224
-101160101,Lanzhou,兰州,CN,China,中国,Gansu,甘肃省,Lanzhou,兰州,36.058041,103.823555,620000 | 620100 | 620101
+101160101,Lanzhou,兰州,CN,China,中国,Gansu,甘肃省,Lanzhou,兰州,36.058041,103.823555,620100 | 620101
 101160102,Gaolan,皋兰,CN,China,中国,Gansu,甘肃省,Lanzhou,兰州,36.331253,103.949333,620122
 101160103,Yongdeng,永登,CN,China,中国,Gansu,甘肃省,Lanzhou,兰州,36.734428,103.262199,620121
 101160104,Yuzhong,榆中,CN,China,中国,Gansu,甘肃省,Lanzhou,兰州,35.844429,104.114975,620123
@@ -1491,7 +1491,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101161304,Pingchuan,平川,CN,China,中国,Gansu,甘肃省,Baiyin,白银,36.729210,104.819206,620403
 101161305,Jingtai,景泰,CN,China,中国,Gansu,甘肃省,Baiyin,白银,37.193520,104.066391,620423
 101161401,Jiayuguan,嘉峪关,CN,China,中国,Gansu,甘肃省,Jiayuguan,嘉峪关,39.786530,98.277306,620200 | 620201
-101170101,Yinchuan,银川,CN,China,中国,Ningxia,宁夏回族自治区,Yinchuan,银川,38.466370,106.278175,640000 | 640100 | 640101
+101170101,Yinchuan,银川,CN,China,中国,Ningxia,宁夏回族自治区,Yinchuan,银川,38.466370,106.278175,640100 | 640101
 101170102,Yongning,永宁,CN,China,中国,Ningxia,宁夏回族自治区,Yinchuan,银川,38.280430,106.253784,640121
 101170103,Lingwu,灵武,CN,China,中国,Ningxia,宁夏回族自治区,Yinchuan,银川,38.094059,106.334702,640181
 101170104,Helan,贺兰,CN,China,中国,Ningxia,宁夏回族自治区,Yinchuan,银川,38.554562,106.345901,640122
@@ -1519,7 +1519,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101170502,Zhongning,中宁,CN,China,中国,Ningxia,宁夏回族自治区,Zhongwei,中卫,37.489735,105.675781,640521
 101170503,Shapotou,沙坡头,CN,China,中国,Ningxia,宁夏回族自治区,Zhongwei,中卫,37.514565,105.190537,640502
 101170504,Haiyuan,海原,CN,China,中国,Ningxia,宁夏回族自治区,Zhongwei,中卫,36.562008,105.647324,640522
-101180101,Zhengzhou,郑州,CN,China,中国,Henan,河南省,Zhengzhou,郑州,34.757977,113.665413,410000 | 410100 | 410101
+101180101,Zhengzhou,郑州,CN,China,中国,Henan,河南省,Zhengzhou,郑州,34.757977,113.665413,410100 | 410101
 101180102,Gongyi,巩义,CN,China,中国,Henan,河南省,Zhengzhou,郑州,34.752178,112.982826,410181
 101180103,Xingyang,荥阳,CN,China,中国,Henan,河南省,Zhengzhou,郑州,34.789078,113.391525,410182
 101180104,Dengfeng,登封,CN,China,中国,Henan,河南省,Zhengzhou,郑州,34.459938,113.037766,410185
@@ -1691,7 +1691,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101181707,Hubin,湖滨,CN,China,中国,Henan,河南省,Sanmenxia,三门峡,34.778118,111.194870,411202
 101181708,Shanzhou,陕州,CN,China,中国,Henan,河南省,Sanmenxia,三门峡,34.720245,111.103851,411203
 101181801,Jiyuan,济源,CN,China,中国,Henan,河南省,Jiyuan,济源,35.090378,112.590050,419001
-101190101,Nanjing,南京,CN,China,中国,Jiangsu,江苏省,Nanjing,南京,32.041546,118.767410,320000 | 320100 | 320101
+101190101,Nanjing,南京,CN,China,中国,Jiangsu,江苏省,Nanjing,南京,32.041546,118.767410,320100 | 320101
 101190102,Lishui,溧水,CN,China,中国,Jiangsu,江苏省,Nanjing,南京,31.653061,119.028732,320117
 101190103,Gaochun,高淳,CN,China,中国,Jiangsu,江苏省,Nanjing,南京,31.327131,118.875893,320118
 101190104,Jiangning,江宁,CN,China,中国,Jiangsu,江苏省,Nanjing,南京,31.953419,118.850624,320115
@@ -1800,7 +1800,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101191304,Sihong,泗洪,CN,China,中国,Jiangsu,江苏省,Suqian,宿迁,33.456539,118.211823,321324
 101191305,Suyu,宿豫,CN,China,中国,Jiangsu,江苏省,Suqian,宿迁,33.941071,118.330009,321311
 101191306,Sucheng,宿城,CN,China,中国,Jiangsu,江苏省,Suqian,宿迁,33.937725,118.278984,321302
-101200101,Wuhan,武汉,CN,China,中国,Hubei,湖北省,Wuhan,武汉,30.584354,114.298569,420000 | 420100 | 420101
+101200101,Wuhan,武汉,CN,China,中国,Hubei,湖北省,Wuhan,武汉,30.584354,114.298569,420100 | 420101
 101200102,Caidian,蔡甸,CN,China,中国,Hubei,湖北省,Wuhan,武汉,30.582186,114.029343,420114
 101200103,Huangpi,黄陂,CN,China,中国,Hubei,湖北省,Wuhan,武汉,30.874155,114.374023,420116
 101200104,Xinzhou,新洲,CN,China,中国,Hubei,湖北省,Wuhan,武汉,30.842150,114.802109,420117
@@ -1915,7 +1915,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101201501,Tianmen,天门,CN,China,中国,Hubei,湖北省,Tianmen,天门,30.653061,113.165863,429006
 101201601,Xiantao,仙桃,CN,China,中国,Hubei,湖北省,Xiantao,仙桃,30.364952,113.453972,429004
 101201701,Qianjiang,潜江,CN,China,中国,Hubei,湖北省,Qianjiang,潜江,30.421215,112.896866,429005
-101210101,Hangzhou,杭州,CN,China,中国,Zhejiang,浙江省,Hangzhou,杭州,30.287458,120.153580,330000 | 330100 | 330101
+101210101,Hangzhou,杭州,CN,China,中国,Zhejiang,浙江省,Hangzhou,杭州,30.287458,120.153580,330100 | 330101
 101210102,Xiaoshan,萧山,CN,China,中国,Zhejiang,浙江省,Hangzhou,杭州,30.162931,120.270691,330109
 101210103,Tonglu,桐庐,CN,China,中国,Zhejiang,浙江省,Hangzhou,杭州,29.797438,119.685043,330122
 101210104,Chunan,淳安,CN,China,中国,Zhejiang,浙江省,Hangzhou,杭州,29.604177,119.044273,330127
@@ -2015,7 +2015,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101211104,Daishan,岱山,CN,China,中国,Zhejiang,浙江省,Zhoushan,舟山,30.242865,122.201134,330921
 101211105,Putuo,普陀,CN,China,中国,Zhejiang,浙江省,Zhoushan,舟山,29.945614,122.301956,330903
 101211106,Dinghai,定海,CN,China,中国,Zhejiang,浙江省,Zhoushan,舟山,30.016422,122.108498,330902
-101220101,Hefei,合肥,CN,China,中国,Anhui,安徽省,Hefei,合肥,31.861191,117.283043,340000 | 340100 | 340101
+101220101,Hefei,合肥,CN,China,中国,Anhui,安徽省,Hefei,合肥,31.861191,117.283043,340100 | 340101
 101220102,Changfeng,长丰,CN,China,中国,Anhui,安徽省,Hefei,合肥,32.478546,117.164696,340121
 101220103,Feidong,肥东,CN,China,中国,Anhui,安徽省,Hefei,合肥,31.883991,117.463219,340122
 101220104,Feixi,肥西,CN,China,中国,Anhui,安徽省,Hefei,合肥,31.719646,117.166115,340123
@@ -2138,7 +2138,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101221704,Jiuhuashan,九华山,CN,China,中国,Anhui,安徽省,Chizhou,池州,30.290001,117.470001,
 101221705,Shitai,石台,CN,China,中国,Anhui,安徽省,Chizhou,池州,30.210323,117.482910,341722
 101221706,Guichi,贵池,CN,China,中国,Anhui,安徽省,Chizhou,池州,30.657377,117.488342,341702
-101230101,Fuzhou,福州,CN,China,中国,Fujian,福建省,Fuzhou,福州,26.075302,119.306236,350000 | 350100 | 350101
+101230101,Fuzhou,福州,CN,China,中国,Fujian,福建省,Fuzhou,福州,26.075302,119.306236,350100 | 350101
 101230102,Minqing,闽清,CN,China,中国,Fujian,福建省,Fuzhou,福州,26.223793,118.868416,350124
 101230103,Minhou,闽侯,CN,China,中国,Fujian,福建省,Fuzhou,福州,26.148567,119.145119,350121
 101230104,Luoyuan,罗源,CN,China,中国,Fujian,福建省,Fuzhou,福州,26.487234,119.552643,350123
@@ -2234,7 +2234,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101230910,Jianou,建瓯,CN,China,中国,Fujian,福建省,Nanping,南平,27.035021,118.321762,350783
 101230911,Yanping,延平,CN,China,中国,Fujian,福建省,Nanping,南平,26.636080,118.178917,350702
 101231001,Diaoyudao,钓鱼岛,CN,China,中国,Fujian,福建省,Diaoyudao,钓鱼岛,25.748566,123.491829,
-101240101,Nanchang,南昌,CN,China,中国,Jiangxi,江西省,Nanchang,南昌,28.676493,115.892151,360000 | 360100 | 360101
+101240101,Nanchang,南昌,CN,China,中国,Jiangxi,江西省,Nanchang,南昌,28.676493,115.892151,360100 | 360101
 101240102,Xinjian,新建,CN,China,中国,Jiangxi,江西省,Nanchang,南昌,28.690788,115.820808,360112
 101240103,Nanchangxian,南昌县,CN,China,中国,Jiangxi,江西省,Nanchang,南昌,28.543781,115.942467,360121
 101240104,Anyi,安义,CN,China,中国,Jiangxi,江西省,Nanchang,南昌,28.841333,115.553108,360123
@@ -2346,7 +2346,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101241102,Yujiang,余江,CN,China,中国,Jiangxi,江西省,Yingtan,鹰潭,28.206177,116.822762,360603
 101241103,Guixi,贵溪,CN,China,中国,Jiangxi,江西省,Yingtan,鹰潭,28.283693,117.212105,360681
 101241104,Yuehu,月湖,CN,China,中国,Jiangxi,江西省,Yingtan,鹰潭,28.239077,117.034111,360602
-101250101,Changsha,长沙,CN,China,中国,Hunan,湖南省,Changsha,长沙,28.194090,112.982277,430000 | 430100 | 430101
+101250101,Changsha,长沙,CN,China,中国,Hunan,湖南省,Changsha,长沙,28.194090,112.982277,430100 | 430101
 101250102,Ningxiang,宁乡,CN,China,中国,Hunan,湖南省,Changsha,长沙,28.253927,112.553185,430182
 101250103,Liuyang,浏阳,CN,China,中国,Hunan,湖南省,Changsha,长沙,28.141111,113.633301,430181
 101250104,Xiangjiangxinqu,湘江新区,CN,China,中国,Hunan,湖南省,Changsha,长沙,28.120001,113.050003,
@@ -2480,7 +2480,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101251507,Longshan,龙山,CN,China,中国,Hunan,湖南省,Xiangxi,湘西,29.453438,109.441193,433130
 101251508,Huayuan,花垣,CN,China,中国,Hunan,湖南省,Xiangxi,湘西,28.581352,109.479065,433124
 101251509,Xiangxi,湘西,CN,China,中国,Hunan,湖南省,Xiangxi,湘西,28.314297,109.739738,433100
-101260101,Guiyang,贵阳,CN,China,中国,Guizhou,贵州省,Guiyang,贵阳,26.578342,106.713478,520000 | 520100 | 520101
+101260101,Guiyang,贵阳,CN,China,中国,Guizhou,贵州省,Guiyang,贵阳,26.578342,106.713478,520100 | 520101
 101260102,Baiyun,白云,CN,China,中国,Guizhou,贵州省,Guiyang,贵阳,26.676849,106.633034,520113
 101260103,Huaxi,花溪,CN,China,中国,Guizhou,贵州省,Guiyang,贵阳,26.410463,106.670792,520111
 101260104,Wudang,乌当,CN,China,中国,Guizhou,贵州省,Guiyang,贵阳,26.630928,106.762123,520112
@@ -2577,7 +2577,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101260907,Anlong,安龙,CN,China,中国,Guizhou,贵州省,Qianxinan,黔西南,25.108959,105.471497,522328
 101260908,Ceheng,册亨,CN,China,中国,Guizhou,贵州省,Qianxinan,黔西南,24.983337,105.812408,522327
 101260909,Puan,普安,CN,China,中国,Guizhou,贵州省,Qianxinan,黔西南,25.786404,104.955345,522323
-101270101,Chengdu,成都,CN,China,中国,Sichuan,四川省,Chengdu,成都,30.659462,104.065735,510000 | 510100 | 510101
+101270101,Chengdu,成都,CN,China,中国,Sichuan,四川省,Chengdu,成都,30.659462,104.065735,510100 | 510101
 101270102,Longquanyi,龙泉驿,CN,China,中国,Sichuan,四川省,Chengdu,成都,30.560650,104.269180,510112
 101270103,Xindu,新都,CN,China,中国,Sichuan,四川省,Chengdu,成都,30.824223,104.160217,510114
 101270104,Wenjiang,温江,CN,China,中国,Sichuan,四川省,Chengdu,成都,30.697996,103.836777,510115
@@ -2779,7 +2779,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101272106,Lizhou,利州,CN,China,中国,Sichuan,四川省,Guangyuan,广元,32.432278,105.826195,510802
 101272107,Zhaohua,昭化,CN,China,中国,Sichuan,四川省,Guangyuan,广元,32.322788,105.964119,510811
 101272108,Chaotian,朝天,CN,China,中国,Sichuan,四川省,Guangyuan,广元,32.642632,105.889168,510812
-101280101,Guangzhou,广州,CN,China,中国,Guangdong,广东省,Guangzhou,广州,23.125177,113.280640,440000 | 440100 | 440101 | 442101
+101280101,Guangzhou,广州,CN,China,中国,Guangdong,广东省,Guangzhou,广州,23.125177,113.280640,440100 | 440101 | 442101
 101280102,Panyu,番禺,CN,China,中国,Guangdong,广东省,Guangzhou,广州,22.938581,113.364616,440113
 101280103,Conghua,从化,CN,China,中国,Guangdong,广东省,Guangzhou,广州,23.545282,113.587387,440117
 101280104,Zengcheng,增城,CN,China,中国,Guangdong,广东省,Guangzhou,广州,23.290497,113.829582,440118
@@ -2920,7 +2920,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101282102,Haifeng,海丰,CN,China,中国,Guangdong,广东省,Shanwei,汕尾,22.971043,115.337326,441521
 101282103,Lufeng,陆丰,CN,China,中国,Guangdong,广东省,Shanwei,汕尾,22.946104,115.644203,441581
 101282104,Luhe,陆河,CN,China,中国,Guangdong,广东省,Shanwei,汕尾,23.302683,115.657562,441523
-101290101,Kunming,昆明,CN,China,中国,Yunnan,云南省,Kunming,昆明,25.040609,102.712250,530000 | 530100 | 530101
+101290101,Kunming,昆明,CN,China,中国,Yunnan,云南省,Kunming,昆明,25.040609,102.712250,530100 | 530101
 101290102,Wuhua,五华,CN,China,中国,Yunnan,云南省,Kunming,昆明,25.042166,102.704414,530102
 101290103,Dongchuan,东川,CN,China,中国,Yunnan,云南省,Kunming,昆明,26.083490,103.181999,530113
 101290104,Xundian,寻甸,CN,China,中国,Yunnan,云南省,Kunming,昆明,25.559475,103.257591,530129
@@ -3062,7 +3062,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101291602,Xishuangbanna,西双版纳,CN,China,中国,Yunnan,云南省,Xishuangbanna,西双版纳,22.001724,100.797943,532800
 101291603,Menghai,勐海,CN,China,中国,Yunnan,云南省,Xishuangbanna,西双版纳,21.955866,100.448288,532822
 101291605,Mengla,勐腊,CN,China,中国,Yunnan,云南省,Xishuangbanna,西双版纳,21.479448,101.567055,532823
-101300101,Nanning,南宁,CN,China,中国,Guangxi,广西壮族自治区,Nanning,南宁,22.824020,108.320007,450000 | 450100 | 450101
+101300101,Nanning,南宁,CN,China,中国,Guangxi,广西壮族自治区,Nanning,南宁,22.824020,108.320007,450100 | 450101
 101300102,Xingning,兴宁,CN,China,中国,Guangxi,广西壮族自治区,Nanning,南宁,22.819511,108.320190,450102
 101300103,Yongning,邕宁,CN,China,中国,Guangxi,广西壮族自治区,Nanning,南宁,22.756598,108.484253,450109
 101300104,Hengxian,横县,CN,China,中国,Guangxi,广西壮族自治区,Nanning,南宁,22.687429,109.270988,450127
@@ -3188,7 +3188,7 @@ Location_ID,Location_Name_EN,城市名称,Country_code,Country_EN,国家名称,A
 101301403,Dongxing,东兴,CN,China,中国,Guangxi,广西壮族自治区,Fangchenggang,防城港,21.541172,107.970169,450681
 101301404,Gangkou,港口,CN,China,中国,Guangxi,广西壮族自治区,Fangchenggang,防城港,21.614407,108.346283,450602
 101301405,Fangcheng,防城,CN,China,中国,Guangxi,广西壮族自治区,Fangchenggang,防城港,21.764757,108.358429,450603
-101310101,Haikou,海口,CN,China,中国,Hainan,海南省,Haikou,海口,20.031971,110.331192,460000 | 460100 | 460101
+101310101,Haikou,海口,CN,China,中国,Hainan,海南省,Haikou,海口,20.031971,110.331192,460100 | 460101
 101310102,Xiuying,秀英,CN,China,中国,Hainan,海南省,Haikou,海口,20.008144,110.282394,460105
 101310103,Longhua,龙华,CN,China,中国,Hainan,海南省,Haikou,海口,20.031027,110.330376,460106
 101310104,Qiongshan,琼山,CN,China,中国,Hainan,海南省,Haikou,海口,20.001051,110.354721,460107
