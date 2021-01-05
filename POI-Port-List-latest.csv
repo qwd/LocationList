@@ -1,0 +1,468 @@
+﻿POI-Port-List-latest v1.0 update by 2020-12-12,,,,,,,,,,,,,,
+POI_ID,POI_Name_EN,POI_Name_ZH,POI_Latitude,POI_Longitude,POI_Type,Country_code,Country_EN,Country_ZH,Location_Name_EN,Location_Name_ZH,Adm2_EN,Adm2_ZH,Adm1_EN,Adm1_ZH
+P2872,dandong,丹东,40.11667,124.4,Port,CN,China,中国,Dandong,丹东,,,Liaoning,辽宁
+P2122,dandongxingang,丹东新港,39.81667,124.15667,Port,CN,China,中国,Dandong,丹东,,,Liaoning,辽宁
+P2461,shishanzi,石山子,39.96667,123.66667,Port,CN,China,中国,Dandong,丹东,,,Liaoning,辽宁
+P2499,daludao,大鹿岛,39.75,123.75,Port,CN,China,中国,Dandong,丹东,,,Liaoning,辽宁
+P2727,xiaochangshandao,小长山岛,39.23,122.67833,Port,CN,China,中国,Dalian,大连,,,Liaoning,辽宁
+P2892,dayaowan nandaquan,大窑湾,39.01667,121.9,Port,CN,China,中国,Dalian,大连,,,Liaoning,辽宁
+P2951,dalian(laohutan),大连,38.87167,121.67833,Port,CN,China,中国,Dalian,大连,,,Liaoning,辽宁
+P2432,lushunxingang,旅顺新港,38.8,121.13333,Port,CN,China,中国,Dalian,大连,,,Liaoning,辽宁
+P2699,jinxian,金县,39.05,121.53333,Port,CN,China,中国,Dalian,大连,,,Liaoning,辽宁
+P2543,hulutao,葫芦套,39.2725,121.6,Port,CN,China,中国,Dalian,大连,,,Liaoning,辽宁
+P2146,changxingdao,长兴岛,39.47667,121.255,Port,CN,China,中国,Dalian,大连,,,Liaoning,辽宁
+P2886,bayuquan,鲅鱼圈,40.28333,122.09167,Port,CN,China,中国,Yingkou,营口,,,Liaoning,辽宁
+P2785,yingkou,营口,40.63333,122.15,Port,CN,China,中国,Yingkou,营口,,,Liaoning,辽宁
+P2938,laobeihekou,老北河口,40.96667,121.83333,Port,CN,China,中国,Panjin,盘锦,,,Liaoning,辽宁
+P2953,jinzhougang(bijiashan),锦州港,40.8,121.06667,Port,CN,China,中国,Jinzhou,锦州,,,Liaoning,辽宁
+P2738,juhuadao,菊花岛,40.48333,120.83333,Port,CN,China,中国,Huludao,葫芦岛,,,Liaoning,辽宁
+P2689,tuanshanjiao,团山角,40.23333,120.46667,Port,CN,China,中国,Huludao,葫芦岛,,,Liaoning,辽宁
+P2442,zhimaowan,芷锚湾,40.01167,119.92,Port,CN,China,中国,Huludao,葫芦岛,,,Liaoning,辽宁
+P2490,shanhaiguan,山海关,39.97917,119.81667,Port,CN,China,中国,Qinhuangdao,秦皇岛,,,Hebei,河北
+P2454,qinhuangdao,秦皇岛,39.90667,119.60333,Port,CN,China,中国,Qinhuangdao,秦皇岛,,,Hebei,河北
+P2436,qilihai(xinkaikou),七里海,39.58333,119.28333,Port,CN,China,中国,Qinhuangdao,秦皇岛,,,Hebei,河北
+P2246,jingtanggang,京唐港,39.205,119.00833,Port,CN,China,中国,Tangshan,唐山,,,Hebei,河北
+P2651,caofeidian,曹妃甸,38.915,118.505,Port,CN,China,中国,Tangshan,唐山,,,Hebei,河北
+P2643,tanggu,塘沽,38.98333,117.78333,Port,CN,China,中国,Tianjin,天津,,,Tianjin,天津
+P2712,qikou,岐口,38.6,117.51667,Port,CN,China,中国,Cangzhou,沧州,,,Hebei,河北
+P2426,chengkouwaihai,埕口外海,38.45,118.43333,Port,CN,China,中国,Dongying,东营,,,Shandong,山东
+P2398,huanghuagang(yiqimeimatou),黄骅港,38.325,117.88167,Port,CN,China,中国,Cangzhou,沧州,,,Hebei,河北
+P2418,dongfenggang,东风港,38.25,118.16667,Port,CN,China,中国,Binzhou,滨州,,,Shandong,山东
+P2578,wanwangoukou,湾湾沟口,38.18333,118.45,Port,CN,China,中国,Dongying,东营,,,Shandong,山东
+P2939,dongyinggang,东营港,38.13833,119.03833,Port,CN,China,中国,Dongying,东营,,,Shandong,山东
+P2232,weifanggang,潍坊港,37.23333,119.18333,Port,CN,China,中国,Weifang,潍坊,,,Shandong,山东
+P2131,laizhougang,莱州港,37.41667,119.93333,Port,CN,China,中国,Yantai,烟台,,,Shandong,山东
+P2172,longkou,龙口,37.65167,120.315,Port,CN,China,中国,Yantai,烟台,,,Shandong,山东
+P2992,penglai,蓬莱,37.83,120.73833,Port,CN,China,中国,Yantai,烟台,,,Shandong,山东
+P2560,nanchangshandao,南长山岛,37.91667,120.7,Port,CN,China,中国,Yantai,烟台,,,Shandong,山东
+P2169,tuojidao,砣矶岛,38.16667,120.75,Port,CN,China,中国,Yantai,烟台,,,Shandong,山东
+P2612,beihuangchengdao,北隍城岛,38.395,120.91833,Port,CN,China,中国,Dalian,大连,,,Liaoning,辽宁
+P2743,yantai,烟台,37.555,121.39167,Port,CN,China,中国,Yantai,烟台,,,Shandong,山东
+P2205,weihai,威海,37.51333,122.13333,Port,CN,China,中国,Weihai,威海,,,Shandong,山东
+P2513,chengshanjiao,成山角,37.38833,122.695,Port,CN,China,中国,Weihai,威海,,,Shandong,山东
+P2737,shidao,石岛,36.865,122.42,Port,CN,China,中国,Weihai,威海,,,Shandong,山东
+P2890,zhangjiabu,张家埠,37.00917,122.16667,Port,CN,China,中国,Weihai,威海,,,Shandong,山东
+P2764,rushankou,乳山口,36.8,121.48333,Port,CN,China,中国,Weihai,威海,,,Shandong,山东
+P2362,qianliyan,千里岩,36.26667,121.38333,Port,CN,China,中国,Qingdao,青岛,,,Shandong,山东
+P2305,nudaogang,女岛港,36.36667,120.86667,Port,CN,China,中国,Qingdao,青岛,,,Shandong,山东
+P2717,qingdao,青岛,36.08333,120.3,Port,CN,China,中国,Qingdao,青岛,,,Shandong,山东
+P2494,huangdao,黄岛,36.06267,120.20283,Port,CN,China,中国,Qingdao,青岛,,,Shandong,山东
+P2327,dongjiakou,董家口,35.6,119.76667,Port,CN,China,中国,Qingdao,青岛,,,Shandong,山东
+P2288,rizhaogang(shijiusuo),日照港,35.36667,119.56667,Port,CN,China,中国,Rizhao,日照,,,Shandong,山东
+P2591,lanshangang,岚山港,35.1,119.38333,Port,CN,China,中国,Rizhao,日照,,,Shandong,山东
+P2862,lianyungang,连云港,34.78333,119.43333,Port,CN,China,中国,Lianyungang,连云港,,,Jiangsu,江苏
+P2450,yanwei,燕尾,34.475,119.785,Port,CN,China,中国,Lianyungang,连云港,,,Jiangsu,江苏
+P2510,binhaigang,滨海港,34.26,120.29833,Port,CN,China,中国,Yancheng,盐城,,,Jiangsu,江苏
+P2257,sheyanghekou,射阳河口,33.81667,120.5,Port,CN,China,中国,Yancheng,盐城,,,Jiangsu,江苏
+P2966,xinyanggang,新洋港,33.615,120.47833,Port,CN,China,中国,Yancheng,盐城,,,Jiangsu,江苏
+P2372,dafenggang,大丰港,33.283333,120.8,Port,CN,China,中国,Yancheng,盐城,,,Jiangsu,江苏
+P2126,jianggang,弶港,32.73333,120.86667,Port,CN,China,中国,Yancheng,盐城,,,Jiangsu,江苏
+P2313,yangkougang,洋口港,32.515,121.42333,Port,CN,China,中国,Nantong,南通,,,Jiangsu,江苏
+P2919,lusi,吕四,32.13333,121.61667,Port,CN,China,中国,Nantong,南通,,,Jiangsu,江苏
+P2980,tianshenggang,天生港,32.03333,120.75,Port,CN,China,中国,Nantong,南通,,,Jiangsu,江苏
+P2830,sheshan,佘山,31.41667,122.23333,Port,CN,China,中国,Shanghai,上海,,,Shanghai,上海
+P2672,chongming(nanbuzhen),崇明,31.53333,121.63333,Port,CN,China,中国,Shanghai,上海,,,Shanghai,上海
+P2652,zhongjun,中浚,31.11667,121.9,Port,CN,China,中国,Shanghai,上海,,,Shanghai,上海
+P2143,gaoqiao,高桥,31.37667,121.56667,Port,CN,China,中国,Shanghai,上海,,,Shanghai,上海
+P2761,wusong,吴淞,31.38333,121.5,Port,CN,China,中国,Shanghai,上海,,,Shanghai,上海
+P2447,huangpugongyuan,黄浦公园,31.24333,121.48667,Port,CN,China,中国,Shanghai,上海,,,Shanghai,上海
+P2523,lucaogang(nanhuizui),芦潮港,30.84,121.845,Port,CN,China,中国,Shanghai,上海,,,Shanghai,上海
+P2739,jinshanzui,金山嘴,30.73333,121.37167,Port,CN,China,中国,Shanghai,上海,,,Shanghai,上海
+P2880,luhuashan,绿华山,30.81667,122.6,Port,CN,China,中国,Zhoushan,舟山,,,Zhejiang,浙江
+P2931,dajishan,大戢山,30.81667,122.16667,Port,CN,China,中国,Shanghai,上海,,,Shanghai,上海
+P2351,shengshan,嵊山,30.71667,122.8,Port,CN,China,中国,Zhoushan,舟山,,,Zhejiang,浙江
+P2794,zhapu,乍浦,30.59333,121.10667,Port,CN,China,中国,Jiaxing,嘉兴,,,Zhejiang,浙江
+P2177,ganpu,澉浦,30.37333,120.90833,Port,CN,China,中国,Jiaxing,嘉兴,,,Zhejiang,浙江
+P2337,tanhu,滩浒,30.61667,121.61667,Port,CN,China,中国,Shanghai,上海,,,Shanghai,上海
+P2419,haihuangshan,海黄山,30.22283,121.51567,Port,CN,China,中国,Ningbo,宁波,,,Zhejiang,浙江
+P2423,changtu,长涂,30.25,122.3,Port,CN,China,中国,Zhoushan,舟山,,,Zhejiang,浙江
+P2806,daishan,岱山,30.23333,122.18333,Port,CN,China,中国,Zhoushan,舟山,,,Zhejiang,浙江
+P2554,ximatou,西码头,30.11817,122.14033,Port,CN,China,中国,Zhoushan,舟山,,,Zhejiang,浙江
+P2998,shenjiamen,沈家门,29.93333,122.3,Port,CN,China,中国,Zhoushan,舟山,,,Zhejiang,浙江
+P2411,dinghai,定海,29.99333,122.03333,Port,CN,China,中国,Zhoushan,舟山,,,Zhejiang,浙江
+P2825,ligang,沥港,30.06667,121.85,Port,CN,China,中国,Zhoushan,舟山,,,Zhejiang,浙江
+P2728,ningbo,宁波,29.88333,121.55,Port,CN,China,中国,Ningbo,宁波,,,Zhejiang,浙江
+P2916,zhenhai,镇海,29.98333,121.73333,Port,CN,China,中国,Ningbo,宁波,,,Zhejiang,浙江
+P2244,beilungang,北仑港,29.93442,121.84833,Port,CN,China,中国,Ningbo,宁波,,,Zhejiang,浙江
+P2680,qitoujiao,崎头角,29.907,122.1195,Port,CN,China,中国,Ningbo,宁波,,,Zhejiang,浙江
+P2584,meishan,梅山,29.82217,122.00972,Port,CN,China,中国,Ningbo,宁波,,,Zhejiang,浙江
+P2559,xize,西泽,29.61667,121.83333,Port,CN,China,中国,Ningbo,宁波,,,Zhejiang,浙江
+P2793,shipu,石浦,29.21667,121.96667,Port,CN,China,中国,Ningbo,宁波,,,Zhejiang,浙江
+P2275,qimen〖kg*2〗gang,旗门港,29.15,121.46667,Port,CN,China,中国,Taizhou,台州,,,Zhejiang,浙江
+P2570,jiantiao,健跳,29.03333,121.6,Port,CN,China,中国,Taizhou,台州,,,Zhejiang,浙江
+P2647,yushan,鱼山,28.88333,122.26667,Port,CN,China,中国,Ningbo,宁波,,,Zhejiang,浙江
+P2259,xiadachen,下大陈,28.455,121.905,Port,CN,China,中国,Taizhou,台州,,,Zhejiang,浙江
+P2735,haimen,海门,28.68617,121.45083,Port,CN,China,中国,Taizhou,台州,,,Zhejiang,浙江
+P2286,haimen〖kg*2〗gang(baisha),海门港,28.7,121.63333,Port,CN,China,中国,Taizhou,台州,,,Zhejiang,浙江
+P2894,dongmencun,东门村,28.33333,121.21667,Port,CN,China,中国,Taizhou,台州,,,Zhejiang,浙江
+P2159,kanmen,坎门,28.08333,121.28333,Port,CN,China,中国,Taizhou,台州,,,Zhejiang,浙江
+P2633,damendao(huangdaao),大门岛,27.95,121.03833,Port,CN,China,中国,Wenzhou,温州,,,Zhejiang,浙江
+P2409,wenzhou,温州,28.02833,120.625,Port,CN,China,中国,Wenzhou,温州,,,Zhejiang,浙江
+P2197,ruian,瑞安,27.785,120.62,Port,CN,China,中国,Wenzhou,温州,,,Zhejiang,浙江
+P2240,nanjishan,南麂山,27.465,121.06317,Port,CN,China,中国,Wenzhou,温州,,,Zhejiang,浙江
+P2306,sansha,三沙,26.91667,120.21667,Port,CN,China,中国,Ningde,宁德,,,Fujian,福建
+P2134,saiqi,赛岐,26.96667,119.66667,Port,CN,China,中国,Ningde,宁德,,,Fujian,福建
+P2532,bangmen,帮门,26.75,119.58333,Port,CN,China,中国,Ningde,宁德,,,Fujian,福建
+P2891,luoyuanjitou,罗源迹头,26.46667,119.68333,Port,CN,China,中国,Fuzhou,福州,,,Fujian,福建
+P2115,huangqi,黄岐,26.31806,119.88195,Port,CN,China,中国,Fuzhou,福州,,,Fujian,福建
+P2289,mawei,马尾,25.96283,119.46638,Port,CN,China,中国,Fuzhou,福州,,,Fujian,福建
+P2414,fuqingwan(songxiagang),福清湾,25.68333,119.58333,Port,CN,China,中国,Fuzhou,福州,,,Fujian,福建
+P2137,zhuyu,竹屿,25.51667,119.73333,Port,CN,China,中国,Fuzhou,福州,,,Fujian,福建
+P2536,langguan,郎官,25.56667,119.3,Port,CN,China,中国,Fuzhou,福州,,,Fujian,福建
+P2683,minjiangkou(chuanshi),闽江口-川石,26.13277,119.65695,Port,CN,China,中国,Fuzhou,福州,,,Fujian,福建
+P2848,minjiangkou(guantou),闽江口-琯头,26.13,119.55667,Port,CN,China,中国,Fuzhou,福州,,,Fujian,福建
+P2168,pingtan,平潭,25.45833,119.84833,Port,CN,China,中国,Fuzhou,福州,,,Fujian,福建
+P2113,sanjiangkou,三江口,25.41667,119.11667,Port,CN,China,中国,Putian,莆田,,,Fujian,福建
+P2903,xiuyu,秀屿,25.14833,119.02,Port,CN,China,中国,Putian,莆田,,,Fujian,福建
+P2671,tiwu,梯吴,25.13333,119.03333,Port,CN,China,中国,Putian,莆田,,,Fujian,福建
+P2180,chongwu,崇武,24.87667,118.95833,Port,CN,China,中国,Quanzhou,泉州,,,Fujian,福建
+P2780,houzhu,后渚,24.9,118.66667,Port,CN,China,中国,Quanzhou,泉州,,,Fujian,福建
+P2243,quanzhou(shihu),泉州,24.81667,118.7,Port,CN,China,中国,Quanzhou,泉州,,,Fujian,福建
+P2912,shenhugang,深沪港,24.63167,118.675,Port,CN,China,中国,Quanzhou,泉州,,,Fujian,福建
+P2816,weitou,围头,24.51667,118.56667,Port,CN,China,中国,Quanzhou,泉州,,,Fujian,福建
+P2849,shijing,石井,24.63412,118.4295,Port,CN,China,中国,Quanzhou,泉州,,,Fujian,福建
+P2929,xiamen,厦门,24.44833,118.07,Port,CN,China,中国,Xiamen,厦门,,,Fujian,福建
+P2350,jiangjunao,将军澳,24.03333,117.9,Port,CN,China,中国,Zhangzhou,漳州,,,Fujian,福建
+P2528,shima,石码,24.45083,117.81767,Port,CN,China,中国,Zhangzhou,漳州,,,Fujian,福建
+P2982,dongshan,东山,23.74333,117.52333,Port,CN,China,中国,Zhangzhou,漳州,,,Fujian,福建
+P2340,magong,马公,23.55,119.56667,Port,CN,China,中国,Taiwan Province,台湾省,,,Taiwan,台湾
+P2334,jilong,基隆,25.15,121.73333,Port,CN,China,中国,Taiwan Province,台湾省,,,Taiwan,台湾
+P2598,gaoxiong,高雄,22.6,120.28333,Port,CN,China,中国,Kaohsiung,高雄市,,,Taiwan,台湾
+P2519,nanaodao(yunao),南澳岛,23.4,117.1,Port,CN,China,中国,Shantou,汕头,,,Guangdong,广东
+P2822,chaozhou〖kg*2〗gang(sanbaimen),潮州港,23.6,116.96667,Port,CN,China,中国,Chaozhou,潮州,,,Guangdong,广东
+P2781,haimen(guangdong),海门-广东,23.33333,116.73333,Port,CN,China,中国,Shantou,汕头,,,Guangdong,广东
+P2558,jiazi,甲子,23.183332,116.61667,Port,CN,China,中国,Shanwei,汕尾,,,Guangdong,广东
+P2364,shanwei,汕尾,22.81667,116.1,Port,CN,China,中国,Shanwei,汕尾,,,Guangdong,广东
+P2646,mabianzhou(guangshihua),马鞭洲,22.76667,115.36667,Port,CN,China,中国,Shenzhen,深圳,,,Guangdong,广东
+P2895,huizhougang,惠州港,22.66667,114.65,Port,CN,China,中国,Huizhou,惠州,,,Guangdong,广东
+P2962,dayawan,大亚湾,22.695,114.565,Port,CN,China,中国,Shenzhen,深圳,,,Guangdong,广东
+P2627,dapengwan(yantiangang),大鹏湾,22.59167,114.53417,Port,CN,China,中国,Shenzhen,深圳,,,Guangdong,广东
+P2260,xianggang,香港,22.58833,114.27833,Port,CN,China,中国,Hongkong,香港,,,Hongkong,香港
+P2236,shekou(chiwan),蛇口,22.3,114.16667,Port,CN,China,中国,Shenzhen,深圳,,,Guangdong,广东
+P2799,guishandao,桂山岛,22.45,113.88333,Port,CN,China,中国,Hongkong,香港,,,Hongkong,香港
+P2792,neilingding,内伶仃岛,22.13333,113.81667,Port,CN,China,中国,Shenzhen,深圳,,,Guangdong,广东
+P2932,shanbanzhou,舢舨洲,22.42333,113.79917,Port,CN,China,中国,Guangzhou,广州,,,Guangdong,广东
+P2926,shenzhenjichang(youmatou),深圳机场,22.71667,113.66667,Port,CN,China,中国,Shenzhen,深圳,,,Guangdong,广东
+P2299,nansha(shuiniutou),南沙,22.63333,113.8,Port,CN,China,中国,Guangzhou,广州,,,Guangdong,广东
+P2474,haiqin,海沁,22.7461,113.5611,Port,CN,China,中国,Guangzhou,广州,,,Guangdong,广东
+P2352,huangpu,黄埔,22.96667,113.53333,Port,CN,China,中国,Guangzhou,广州,,,Guangdong,广东
+P2908,guangzhou,广州,23.09167,113.45833,Port,CN,China,中国,Guangzhou,广州,,,Guangdong,广东
+P2945,beijie,北街,23.06667,113.26667,Port,CN,China,中国,Jiangmen,江门,,,Guangdong,广东
+P2621,hengmen,横门,22.60388,113.11467,Port,CN,China,中国,Zhongshan,中山,,,Guangdong,广东
+P2304,zhuhai(xiangzhou),珠海-香洲,22.575,113.51833,Port,CN,China,中国,Zhuhai,珠海,,,Guangdong,广东
+P2801,zhuhai(jiuzhougang),珠海-九洲港,22.28333,113.58333,Port,CN,China,中国,Zhuhai,珠海,,,Guangdong,广东
+P2943,aomen,澳门,22.2425,113.58362,Port,CN,China,中国,Zhuhai,珠海,,,Guangdong,广东
+P2102,dongaodao,东澳岛,22.21797,113.55333,Port,CN,China,中国,Zhuhai,珠海,,,Guangdong,广东
+P2751,dawanshan,大万山,22.01667,113.7,Port,CN,China,中国,Zhuhai,珠海,,,Guangdong,广东
+P2587,denglongshan,灯笼山,21.93333,113.71667,Port,CN,China,中国,Zhongshan,中山,,,Guangdong,广东
+P2619,sanzaodao,三灶岛,22.23333,113.4,Port,CN,China,中国,Zhuhai,珠海,,,Guangdong,广东
+P2225,zhuhaigang,珠海港,22.03333,113.4,Port,CN,China,中国,Zhuhai,珠海,,,Guangdong,广东
+P2563,hengshan,横山,21.94556,113.23111,Port,CN,China,中国,Jiangmen,江门,,,Guangdong,广东
+P2835,jingan(baijiao),井岸,22.33333,113.18333,Port,CN,China,中国,Zhuhai,珠海,,,Guangdong,广东
+P2357,shangchuandao(sanzhouwan),上川岛,22.21667,113.3,Port,CN,China,中国,Jiangmen,江门,,,Guangdong,广东
+P2314,beijin,北津,21.75,112.76667,Port,CN,China,中国,Yangjiang,阳江,,,Guangdong,广东
+P2709,hailingshandao(zhapo),海陵山岛,21.8,112.01667,Port,CN,China,中国,Yangjiang,阳江,,,Guangdong,广东
+P2566,dianbai,电白,21.58333,111.81667,Port,CN,China,中国,Maoming,茂名,,,Guangdong,广东
+P2537,bohe,博贺,21.5,111.26667,Port,CN,China,中国,Maoming,茂名,,,Guangdong,广东
+P2967,xige,西葛,21.48333,111.23333,Port,CN,China,中国,Maoming,茂名,,,Guangdong,广东
+P2585,maoshihua(shuidonggang),茂石化,21.4661,111.09694,Port,CN,China,中国,Maoming,茂名,,,Guangdong,广东
+P2440,naozhoudao(beigang),硇洲岛,21.478333,111.07333,Port,CN,China,中国,Zhanjiang,湛江,,,Guangdong,广东
+P2582,zhanjiang,湛江,20.9,110.55,Port,CN,China,中国,Zhanjiang,湛江,,,Guangdong,广东
+P2769,xiagang,下港,21.16667,110.4,Port,CN,China,中国,Zhanjiang,湛江,,,Guangdong,广东
+P2109,haian,海安,20.51667,110.53333,Port,CN,China,中国,Zhanjiang,湛江,,,Guangdong,广东
+P2285,liusha,流沙,20.22833,110.12667,Port,CN,China,中国,Zhanjiang,湛江,,,Guangdong,广东
+P2117,wushi,乌石,20.44639,109.99222,Port,CN,China,中国,Zhanjiang,湛江,,,Guangdong,广东
+P2653,xiabo,下泊,20.55,109.83333,Port,CN,China,中国,Zhanjiang,湛江,,,Guangdong,广东
+P2609,dongshadao(dongsha〖kg*2〗qundao),东沙岛,21.26667,109.76667,Port,CN,China,中国,Guangzhou,广州,,,Guangdong,广东
+P2944,haikou(xiuying),海口,20.7,116.71667,Port,CN,China,中国,Haikou,海口,,,Hainan,海南
+P2590,puqian,铺前,20.025,110.276665,Port,CN,China,中国,Wenchang,文昌,,,Hainan,海南
+P2483,qinglan,清澜,20.03305,110.572,Port,CN,China,中国,Wenchang,文昌,,,Hainan,海南
+P2664,boao,博鳌,19.563334,110.82166,Port,CN,China,中国,Qionghai,琼海,,,Hainan,海南
+P2774,xincun,新村,19.19833,110.60667,Port,CN,China,中国,Lingshui,陵水,,,Hainan,海南
+P2121,yalonggang,牙笼港,18.415,109.97055,Port,CN,China,中国,Sanya,三亚,,,Hainan,海南
+P2429,sanya,三亚,18.22212,109.695,Port,CN,China,中国,Sanya,三亚,,,Hainan,海南
+P2750,yinggehai,莺歌海,18.245167,109.4975,Port,CN,China,中国,Ledong,乐东,,,Hainan,海南
+P2885,dongfang(basuo),东方,18.505,108.68833,Port,CN,China,中国,Dongfang,东方,,,Hainan,海南
+P2575,yangpu,洋浦,19.10667,108.625,Port,CN,China,中国,Zhanzhou,儋州,,,Hainan,海南
+P2539,xinying,新盈,19.73195,109.1875,Port,CN,China,中国,Lingao,临高,,,Hainan,海南
+P2692,macungang,马村港,19.9,109.51667,Port,CN,China,中国,Chengmai,澄迈,,,Hainan,海南
+P2620,yongxingdao(xisha〖kg*2〗qundao),永兴岛,19.95972,110.02388,Port,CN,China,中国,Sansha,三沙,,,Hainan,海南
+P2149,shuangzijiao(nansha〖kg*4〗qundao),双子礁,16.83333,112.33333,Port,CN,China,中国,Sansha,三沙,,,Hainan,海南
+P2428,yongshujiao(nansha〖kg*2〗qundao),永暑礁,11.45,114.31667,Port,CN,China,中国,Sansha,三沙,,,Hainan,海南
+P2669,tieshangang(shitoubu),铁山港,21.58333,109.56667,Port,CN,China,中国,Beihai,北海,,,Guangxi,广西
+P2864,weizhoudao,涠洲岛,21.01667,109.11667,Port,CN,China,中国,Beihai,北海,,,Guangxi,广西
+P2462,beihai,北海,21.46667,109.05,Port,CN,China,中国,Beihai,北海,,,Guangxi,广西
+P2659,longmen,龙门,21.75,108.55,Port,CN,China,中国,Qinzhou,钦州,,,Guangxi,广西
+P2512,qisha,企沙,21.58333,108.48333,Port,CN,China,中国,Fangchenggang,防城港,,,Guangxi,广西
+P2410,paotaijiao,炮台角,21.56667,108.38333,Port,CN,China,中国,Fangchenggang,防城港,,,Guangxi,广西
+P2284,fangchenggang,防城港,21.6,108.33333,Port,CN,China,中国,Fangchenggang,防城港,,,Guangxi,广西
+P2602,zhenzhugang,珍珠港,21.51667,108.21667,Port,CN,China,中国,Fangchenggang,防城港,,,Guangxi,广西
+P2488,bailongwei,白龙尾,21.5,108.23333,Port,CN,China,中国,Fangchenggang,防城港,,,Guangxi,广西
+P2827,diaoyudao,钓鱼岛,25.73333,123.46667,Port,CN,China,中国,Diaoyudao,钓鱼岛,,,Fujian,福建
+P2533,zhongshaquandao-huangyandao,中沙群岛－黄岩岛,15.11667,117.85,Port,CN,China,中国,Sansha,三沙,,,Hainan,海南
+P2843,d.p.r.k.-nampo,南浦,38.683334,125.4,Port,KP,North Korea,朝鲜,Nampho,南浦特别市,,,Nampho,南浦特别市
+P2820,r.o.k.-inchon,仁川,37.466667,126.6,Port,KR,South Korea,大韩民国,Jung District,Jung District,,,Incheon,仁川廣域市
+P2795,r.o.k.-gunsan,群山,35.983334,126.71667,Port,KR,South Korea,韩国,Gunsan,群山市,,,Jeollabuk-do,全罗北道
+P2545,r.o.k.-jeju do(seogwi po),济州岛,33.233334,126.55,Port,KR,South Korea,韩国,Seogwipo,西归浦市,,,Jeju-do,济州特别自治道
+P2674,r.o.k.-busan,釜山,35.1,129.03334,Port,KR,South Korea,大韩民国,Jung District,Jung District,,,Busan,釜山
+P2673,japan-sasebo,佐世保,33.15,129.73334,Port,JP,Japan,日本,Sasebo,佐世保市,,,Nagasaki Prefecture,长崎县
+P2290,japan-naha,那霸,26.216667,127.666664,Port,JP,Japan,日本,Naha-shi,那霸市,,,Okinawa,冲绳县
+P2365,japan-simonoseki,下关,33.95,130.96666,Port,JP,Japan,日本,Shimonoseki,下关市,,,Yamaguchi Prefecture,山口县
+P2839,japan-kure,吴,34.233334,132.55,Port,JP,Japan,日本,Kure,吴市,,,Hiroshima Prefecture,广岛县
+P2374,japan-maizuru,舞鹤,35.483334,135.4,Port,JP,Japan,日本,Maizuru-shi,舞鹤市,,,Kyoto,京都府
+P2940,japan-kobe,神户,34.683334,135.2,Port,JP,Japan,日本,Kobe-shi,神户市,,,Hyogo,兵库县
+P2788,japan-yokohama,横滨,35.433334,139.66667,Port,JP,Japan,日本,Yokohama,横滨市,,,Kanagawa Prefecture,神奈川县
+P2809,japan-kamaisi,釜石,39.266666,141.9,Port,JP,Japan,日本,Kamaishi-shi,釜石市,,,Iwate,岩手县
+P2348,sakhalin-port korsakov(otomari ko),科尔萨科夫港,46.65,142.75,Port,RU,Russia,俄罗斯,Korsakov,科尔萨科夫,,,Sakhalin,萨哈林州
+P2453,canada-prince rupert,鲁珀特王子港,54.316666,-130.33333,Port,CA,Canada,加拿大,Prince Rupert,鲁珀特王子港,,,British Columbia,不列颠哥伦比亚省
+P2412,canada-tofino,托菲诺,49.15,-125.916664,Port,CA,Canada,加拿大,Estevan Point,Estevan Point,,,British Columbia,不列颠哥伦比亚省
+P2230,canada-victoria,维多利亚,48.416668,-123.36667,Port,CA,Canada,加拿大,Victoria,维多利亚,,,British Columbia,British Columbia
+P2887,canada-vancouver harbour,温哥华港,49.283333,-123.11667,Port,CA,Canada,加拿大,Vancouver,温哥华,,,British Columbia,不列颠哥伦比亚省
+P2212,u.s.a.-seattle,西雅图,47.6,-122.333336,Port,US,United States,美国,King County,金县,,,Washington,华盛顿州
+P2152,u.s.a.-astoria,阿斯托里亚,46.2,-123.76667,Port,US,United States,美国,Clatsop County,克拉特索普县,,,Oregon,Oregon
+P2617,u.s.a.-san francisco,圣弗朗西斯科,37.8,-122.45,Port,US,United States,美国,San Francisco,旧金山,,,California,加利福尼亚（加州）
+P2155,u.s.a.-los angeles,洛杉矶,33.716667,-118.26667,Port,US,United States,美国,Lomita,洛米塔,,,California,加利福尼亚（加州）
+P2486,u.s.a.-san diego,圣迭戈,32.716667,-117.166664,Port,US,United States,美国,San Diego,圣地亚哥,,,California,加利福尼亚（加州）
+P2859,salvador-la union,拉乌尼翁,13.333333,-87.816666,Port,SV,El Salvador,萨尔瓦多,La Unión,拉乌尼翁,,,La Unión Department,拉乌尼翁省
+P2701,panama-balboa,巴尔博亚,8.95,-79.566666,Port,PA,Panama,巴拿马,Arraijan,阿赖汉,,,Panamá Oeste,Panamá Oeste
+P2654,chile-valparaiso,瓦尔帕莱索,-33.033333,-71.63333,Port,CL,Chile,智利,Valparaíso,瓦尔帕莱索,,,Valparaíso Region,瓦尔帕莱索大区
+P2937,chile-puerto montt,蒙特港,-41.483334,-72.96667,Port,CL,Chile,智利,Puerto Montt,Puerto Montt,,,Los Lagos Region,Los Lagos Region
+P2927,null,合恩角,-55.516666,-68.083336,Port,CL,Chile,智利,Antártica Chilena Province,Antártica Chilena Province,,,Magellan and the Chilean Antarctic Region,Magellan and the Chilean Antarctic Region
+P2950,sumatera-air musi(outer bar),穆西河,-2.2333333,104.933334,Port,ID,Indonesia,印度尼西亚,Mentok,门托克,,,Bangka–Belitung Islands,邦加-勿里洞省
+P2741,west malaysia-pinang,槟城,5.4166665,100.35,Port,MY,Malaysia,马来西亚,Barat Daya Pulau Pinang,null,,,Penang,槟城
+P2949,west malaysia-port kelang,巴生港,3.0333333,101.35,Port,MY,Malaysia,马来西亚,Klang,巴生港,,,Klang,雪兰莪
+P2521,west malaysia-port dickson,波德申,2.5166667,101.78333,Port,MY,Malaysia,马来西亚,port-tide Dickson,波德申,,,Negeri Sembilan,森美兰
+P2261,west malaysia-kuala batu pahat,瓜拉巴株巴辖,1.7666667,102.88333,Port,MY,Malaysia,马来西亚,Batu Pahat,峇株巴辖,,,Johor,柔佛州
+P2167,singapore-keppel harbour,克佩尔港,1.2666667,103.816666,Port,SG,Singapore,新加坡,Singapore,新加坡,,,Central Singapore,新加坡
+P2470,west malaysia-tanjung gelang,宜兰角,3.9833333,103.416664,Port,MY,Malaysia,马来西亚,Kuantan,关丹,,,Pahang,彭亨
+P2231,west malaysia-trengganu,丁加奴,5.35,103.13333,Port,MY,Malaysia,马来西亚,Seberang Peraio Selatan,null,,,Penang,槟城
+P2344,thailand-bangkok bar,曼谷沙渚,13.45,100.6,Port,TH,Thailand,泰国,Phra Samut Chedi,帕沙没则滴,,,Samut Prakan,北揽
+P2635,vietnam-muivung tau,头顿角,10.333333,107.066666,Port,VN,Vietnam,越南,Vung Tau,头顿市,,,Bà Rịa - Vũng Tàu,巴地头顿省
+P2107,vietnam-hon nieu,宇岛,18.8,105.76667,Port,VN,Vietnam,越南,Vinh,荣市,,,Nghệ An,Nghệ An
+P2748,vietnam-cua cam approaches (hon dau),哑门附近,20.666666,106.816666,Port,VN,Vietnam,越南,Haiphong,海防市,,,Haiphong,海防市
+P2626,philippine-cebu,宿务,10.3,123.9,Port,PH,Philippines,菲律宾,Cebu City,宿雾市,,,Cebu,宿务
+P2658,philippine-manila,马尼拉,14.583333,120.96667,Port,PH,Philippines,菲律宾,Manila,马尼拉,,,Metro Manila,马尼拉大都会
+P2114,philippine-davao,达沃,7.0833335,125.63333,Port,PH,Philippines,菲律宾,Davao City,Davao City,,,Davao Region,Davao Region
+P2321,philippine-jolo,霍洛岛,6.0666666,121,Port,PH,Philippines,菲律宾,Jolo,霍洛,,,Sulu,苏禄
+P2778,kalimantan-sandakan,山打根,5.8333335,118.11667,Port,MY,Malaysia,马来西亚,Sandakan,山打根,,,Sabah,沙巴
+P2710,kalimantan-labuan,纳闽岛,5.2833333,115.25,Port,MY,Malaysia,马来西亚,Gersik,null,,,Labuan,纳闽
+P2140,kalimantan-miri,米里,4.4,113.98333,Port,MY,Malaysia,马来西亚,Miri,美里,,,Sarawak,砂拉越
+P2933,kalimantan-sungai sarawak,沙捞越河,1.75,110.5,Port,MY,Malaysia,马来西亚,Kabong,加榜,,,Sarawak,砂拉越
+P2424,kalimantan-sungai barito(outer bar),巴里托河,-3.5666666,114.48333,Port,ID,Indonesia,印度尼西亚,Banjarmasin,马辰,,,South Kalimantan,南加里曼丹省
+P2708,kalimantan-balik papan,巴厘巴板,-1.2666667,116.8,Port,ID,Indonesia,印度尼西亚,Balikpapan Selatan,Balikpapan Selatan,,,East Kalimantan,东加里曼丹省
+P2815,kalimantan-sungai kutei,库堤河,-0.7,117.5,Port,ID,Indonesia,印度尼西亚,Samarinda,沙马林达,,,East Kalimantan,东加里曼丹省
+P2323,java-djakarta(tanjung priok),雅加达,-6.1,106.86667,Port,ID,Indonesia,印度尼西亚,Jakarta,雅加达,,,Jakarta,雅加达
+P2924,java-surabaya,泗水,-7.2,112.73333,Port,ID,Indonesia,印度尼西亚,Kamal,卡马尔,,,East Java,东爪哇省
+P2805,java-karang djamuang,卡朗查芒,-6.9333334,112.73333,Port,ID,Indonesia,印度尼西亚,Bangkalan,邦卡兰,,,East Java,东爪哇省
+P2356,papua new guinea-port moresby,莫尔兹比港,-9.483334,147.13333,Port,PG,Papua New Guinea,巴布亚新几内亚,port-tide Moresby,莫尔兹比港,,,National Capital,莫尔兹比港
+P2624,bismarck archipelago-seeadler harbour,泽阿德勒港,-2.0166667,147.26666,Port,PG,Papua New Guinea,巴布亚新几内亚,Lorengau,洛伦高,,,Manus Province,马努斯省
+P2542,vanuatu-vila harbour,维拉港,-17.75,168.3,Port,VU,Vanuatu,瓦努阿图,port-tide Vila,维拉港,,,Shefa,谢法省
+P2226,australia-twin island,特温岛,-10.466666,142.43333,Port,AU,Australia,澳大利亚,Shire of Torres,Shire of Torres,,,Queensland,昆士兰州
+P2223,australia-thursday island,星期四岛,-10.583333,142.21666,Port,AU,Australia,澳大利亚,Shire of Torres,Shire of Torres,,,Queensland,昆士兰州
+P2396,australia-goods island,古兹岛,-10.566667,142.16667,Port,AU,Australia,澳大利亚,Shire of Torres,Shire of Torres,,,Queensland,昆士兰州
+P2268,australia-townsville,汤斯维尔,-19.25,146.83333,Port,AU,Australia,澳大利亚,City of Townsville,汤斯维尔市政府,,,Queensland,昆士兰州
+P2489,australia-mackay outer harbour,麦凯外港,-21.116667,149.23334,Port,AU,Australia,澳大利亚,Mackay Region,Mackay Region,,,Queensland,昆士兰州
+P2376,australia-brisbane bar,布里斯班沙渚,-27.366667,153.16667,Port,AU,Australia,澳大利亚,Brisbane,布里斯班,,,Queensland,昆士兰州
+P2227,australia-newcastle,纽卡斯尔,-32.933334,151.78334,Port,AU,Australia,澳大利亚,City of Newcastle,City of Newcastle,,,New South Wales,新南威尔士州
+P2446,australia-sydney,悉尼,-33.85,151.23334,Port,AU,Australia,澳大利亚,Sydney,悉尼,,,New South Wales,新南威尔士
+P2147,australia-port phillip heads,菲利浦港,-38.3,144.61667,Port,AU,Australia,澳大利亚,Borough of Queenscliffe,Borough of Queenscliffe,,,Victoria,维多利亚州
+P2548,australia-port phillip(melbourne),菲利浦港-墨尔本,-37.866665,144.86667,Port,AU,Australia,澳大利亚,City of Hobsons Bay,City of Hobsons Bay,,,Victoria,维多利亚州
+P2921,australia-mersey river(devonport),莫西河,-41.183334,146.36667,Port,AU,Australia,澳大利亚,Devonport-tide,德文港,,,Tasmania,塔斯马尼亚
+P2154,australia-port adelaide(outer harbour),阿德莱德外港,-34.783333,138.48334,Port,AU,Australia,澳大利亚,Adelaide,阿德莱德,,,South Australia,南澳大利亚
+P2390,australia-wallaroo,沃拉鲁,-33.9,137.6,Port,AU,Australia,澳大利亚,Wallaroo,Wallaroo,,,South Australia,南澳大利亚
+P2762,australia-whyalla,怀阿拉,-33.016666,137.6,Port,AU,Australia,澳大利亚,Whyalla,怀阿拉,,,South Australia,南澳大利亚
+P2881,australia-port lincoln,林肯港,-34.716667,135.86667,Port,AU,Australia,澳大利亚,port-tide Lincoln,port-tide Lincoln,,,South Australia,南澳大利亚州
+P2989,australia-darwin,达尔文,-12.466666,130.85,Port,AU,Australia,澳大利亚,Darwin,达尔文,,,Northern Territory,东北地区
+P2194,australia-weipa,韦帕,-12.666667,141.88333,Port,AU,Australia,澳大利亚,Aboriginal Shire of Napranum,Aboriginal Shire of Napranum,,,Queensland,昆士兰州
+P2233,new zealand-auckland,奥克兰,-36.85,174.76666,Port,NZ,New Zealand,新西兰,Auckland,奥克兰都会区,,,Auckland,奥克兰大区
+P2179,new zealand-wellington,惠灵顿,-41.283333,174.78334,Port,NZ,New Zealand,新西兰,Wellington,惠灵顿,,,Wellington,惠灵顿大区
+P2755,new zealand-port lyttelton,利特尔顿港,-43.6,172.71666,Port,NZ,New Zealand,新西兰,Christchurch,克赖斯特彻奇,,,Canterbury Region,坎特伯雷
+P2541,new zealand-bluff,布拉夫,-46.6,168.35,Port,NZ,New Zealand,新西兰,Invercargill,Invercargill,,,Southland Region,南地大区
+P2918,samoa-apia,阿皮亚,-13.816667,-171.76666,Port,WS,Samoa,萨摩亚,Vaiusu,Vaiusu,,,Tuamasaga,图阿马萨加
+P2171,fiji islands-suva harbour,苏瓦港,-18.133333,178.43333,Port,FJ,Fiji,斐济,Suva,苏瓦,,,Central Division,Central Division
+P2973,caroline islands-dublon island,杜布隆岛,7.366667,151.55,Port,FM,Federated States of Micronesia,密克罗尼西亚联邦,Weno,维诺,,,Chuuk State,丘克州
+P2157,marianas islands-guam,关岛,13.433333,144.65,Port,GU,Guam,关岛,Santa Rita,Santa Rita,,,Santa Rita,Santa Rita
+P2438,hawaiian islands-honolulu,火奴鲁鲁,21.3,-157.86667,Port,US,United States,美国,Honolulu County,檀香山市县,,,Hawaii,夏威夷州
+P2445,antarctica-great wall station,长城站,-62.216667,-58.95,Port,AQ,Antarctica,南极,Artigas Station,Artigas Station,,,Antarctica,南极洲
+P2316,"thailand,west coast-ao nang",奥南,8.016666,98.833336,Port,TH,Thailand,泰国,Krabi,甲米,,,Krabi,甲米府
+P2960,"thailand,west coast-pak nam ranong",拉廊河口,9.95,98.6,Port,TH,Thailand,泰国,Ranong,拉廊,,,Ranong,拉廊府
+P2922,iles kerguelen-port-aux-francais,法兰西港,-49.35,70.21667,Port,FR,France,法国,port-tide-aux-Français,法兰西港,,,French Southern and Antarctic Lands,法属南部和南极领地
+P2588,myanma-mergui,丹老,12.433333,98.6,Port,MM,Myanmar,缅甸,Myeik,丹老,,,Tanintharyi,德林达依
+P2388,myanma-elephant point,象角,16.483334,96.3,Port,MM,Myanmar,缅甸,Thanlyin,沙廉,,,Yangon,仰光省
+P2636,bangladesh-chittagong,吉大港,22.333334,91.833336,Port,BD,Bangladesh,孟加拉国,Chittagong,Chittagong,,,Chittagong Division,吉大港专区
+P2229,india-sagar roads,萨格尔锚地,21.65,88.05,Port,IN,India,印度,Contai,琼泰,,,West Bengal,西孟加拉邦
+P2384,india-madras,马德拉斯,13.1,80.3,Port,IN,India,印度,Chennai,金奈,,,Tamil Nadu,泰米尔纳德邦
+P2478,sri lanka-trincomalee,亭可马里,8.55,81.21667,Port,LK,Sri Lanka,斯里兰卡,Trincomalee,亭可马里,,,Eastern Province,东部省
+P2599,sri lanka-colombo,科伦坡,6.95,79.85,Port,LK,Sri Lanka,斯里兰卡,Colombo,科伦坡,,,Western Province,西部省
+P2508,india-cochin,科钦,9.966666,76.26667,Port,IN,India,印度,Kochi,柯枝,,,Kerala,喀拉拉邦
+P2668,india -bombay,孟买,18.916666,72.833336,Port,IN,India,印度,Mumbai,孟买,,,Maharashtra,马哈拉施特拉邦
+P2747,india -bhavnagar,包纳加尔,21.75,72.23333,Port,IN,India,印度,Ghogha,Ghogha,,,Gujarat,古吉拉特邦
+P2141,pakistan-muhammed bin qasim port entrance,穆罕默德宾加西姆港-口,24.7,67.15,Port,PK,Pakistan,巴基斯坦,Karachi,卡拉奇,,,Sindh,Sindh
+P2239,pakistan-muhammed bin qasim port (pipri),穆罕默德宾加西姆港-比布里,24.783333,67.35,Port,PK,Pakistan,巴基斯坦,Karachi,卡拉奇,,,Sindh,Sindh
+P2405,pakistan-karachi,卡拉奇,24.8,66.96667,Port,PK,Pakistan,巴基斯坦,Karachi,卡拉奇,,,Sindh,Sindh
+P2963,pakistan-pasni,伯斯尼,25.266666,63.483334,Port,PK,Pakistan,巴基斯坦,Pasni,伯斯尼,,,Balochistan,俾路支省
+P2865,pakistan-gwadar,瓜德尔,25.116667,62.333332,Port,PK,Pakistan,巴基斯坦,Gwadar,瓜德尔,,,Balochistan,俾路支省
+P2105,iran-bandar shahid rejaie,沙希德拉贾伊港,27.1,56.066666,Port,IR,Iran,伊朗,Dogerdan,多格尔丹,,,Hormozgan,霍尔木兹甘省
+P2970,iran- jazireh ye khark,哈尔克岛,29.266666,50.333332,Port,IR,Iran,伊朗,Khark,哈尔克,,,Bushehr,布什尔省
+P2505,iran-khowr-e  musa bar,穆萨湾,30,49.05,Port,IR,Iran,伊朗,Mahshahr County,Mahshahr County,,,Khuzestan Province,胡齐斯坦省
+P2623,shatt al arab(outer bar),阿拉伯河,29.833334,48.716667,Port,IQ,Iraq,伊拉克,Al Faw,Al Faw,,,Basra,巴士拉省
+P2637,kuwait-mina al ahmadi,艾哈迈迪港,29.066668,48.166668,Port,KW,Kuwait,科威特,Al Fahahil,富海希勒,,,Ahmadi,艾哈迈迪省
+P2295,kuwait-mina saud,塞欧德港,28.733334,48.4,Port,SA,Saudi Arabia,沙特阿拉伯,Khafji,哈夫吉,,,Ash Sharqīyah,东部省
+P2516,saudi arabia-ras tannurah,拉斯坦努拉,26.633333,50.166668,Port,SA,Saudi Arabia,沙特阿拉伯,Rahimah,Rahimah,,,Ash Sharqīyah,东部省
+P2685,bahrain island-mina salman,塞勒曼港,26.2,50.6,Port,BH,Bahrain,巴林,Manama,麦纳麦,,,Capital Governorate,Capital Governorate
+P2997,qatar-musayid(outer channel entrance),乌姆赛义德,25.033333,51.65,Port,QA,Qatar,卡塔尔,Mesaieed,梅赛伊德,,,Mesaieed,梅赛伊德
+P2976,uae-mina jebel ali,米纳杰贝勒阿里,25,55.05,Port,AE,United Arab Emirates,阿拉伯联合酋长国,Dubai,迪拜,,,Dubai,迪拜
+P2752,oman-mina qaboos,吉卜什港,23.616667,58.566666,Port,OM,Oman,阿曼,Muscat,马斯喀特,,,Muscat,马斯喀特
+P2452,yemen-aden,亚丁,12.783334,44.983334,Port,YE,Yemen,也门,Aden,亚丁,,,Adan Governorate,亚丁省
+P2986,djibouti-djibouti,吉布提,11.583333,43.15,Port,DJ,Djibouti,吉布提,Djibouti,Djibouti,,,Djibouti Region,Djibouti Region
+P2381,egypt-suez,苏伊士,29.933332,32.55,Port,EG,Egypt,埃及,Suez,苏伊士,,,Suez Governorate,苏伊士省
+P2407,italy-venezia(venice),威尼斯,45.433334,12.333333,Port,IT,Italy,意大利,Venice,威尼斯,,,Veneto,威尼托
+P2686,tunisie-sfax,斯法克斯,34.733334,10.766666,Port,TN,Tunisia,突尼斯,Sfax,Sfax,,,Sfax Governorate,斯法克斯省
+P2287,france-toulon,土伦,43.116665,5.9166665,Port,FR,France,法国,Var,Var,,,Provence-Alpes-Côte dAzur,普罗旺斯-阿尔卑斯-蓝色海岸大区
+P2394,spain-gibraltar,直布罗陀,36.133335,-5.35,Port,GI,Gibraltar,直布罗陀,Gibraltar,直布罗陀,,,Gibraltar,直布罗陀
+P2984,portugal-lisbon,葡萄牙-里斯本,38.716667,-9.116667,Port,PT,port-tideugal,葡萄牙,Lisbon,Lisbon,,,Lisbon District,里斯本区
+P2832,france-pointe de grave,格拉沃角,45.566666,-1.0666667,Port,FR,France,法国,Gironde,吉伦特省,,,Nouvelle-Aquitaine,新阿基坦大区
+P2807,france-la rochelle-pallice,拉罗谢尔－帕利斯,46.166668,-1.2166667,Port,FR,France,法国,Charente-Maritime,滨海夏朗德省,,,Nouvelle-Aquitaine,新阿基坦大区
+P2757,france-saint-nazaire,圣纳泽尔,47.266666,-2.2,Port,FR,France,法国,Loire-Atlantique,大西洋卢瓦尔省,,,Pays de la Loire,卢瓦尔河地区大区
+P2308,france-brest,布雷斯特,48.383335,-4.5,Port,FR,France,法国,Finistère,菲尼斯泰尔省,,,Brittany,布列塔尼大区
+P2324,france-saint-malo,圣马洛,48.633335,-2.0333333,Port,FR,France,法国,Ille-et-Vilaine,伊勒-维莱讷省,,,Brittany,布列塔尼大区
+P2158,st-helier,圣赫利尔 ,49.183334,-2.1166666,Port,JE,Jersey,泽西岛,Saint Helier,圣赫利尔,,,Saint Helier,圣赫利尔
+P2370,france-cherbourg,瑟堡,49.65,-1.6333333,Port,FR,France,法国,Manche,芒什省,,,Normandy,诺曼底大区
+P2493,france-le havre,勒阿弗尔,49.483334,0.11666667,Port,FR,France,法国,Seine-Maritime,Seine-Maritime,,,Normandy,诺曼底大区
+P2108,france-dieppe,迪耶普,49.933334,1.0833334,Port,FR,France,法国,Seine-Maritime,Seine-Maritime,,,Normandy,诺曼底大区
+P2283,france-boulogne,布洛涅,50.733334,1.5833334,Port,FR,France,法国,Boulogne-sur-Mer,滨海布洛涅,,,Pas-de-Calais,加来海峡省
+P2198,france-calais,加来,50.966667,1.85,Port,FR,France,法国,Pas-de-Calais,Pas-de-Calais,,,Hauts-de-France,上法兰西大区
+P2190,france-dunkerque,敦刻尔克,51.05,2.3666666,Port,FR,France,法国,Nord,诺尔,,,Hauts-de-France,上法兰西大区
+P2847,england-dover,多佛尔,51.116665,1.3166667,Port,GB,United Kingdom,英国,South East England,东南英格兰,,,England,英格兰
+P2466,england-margate,马盖特,51.383335,1.3833333,Port,GB,United Kingdom,英国,South East England,东南英格兰,,,England,英格兰
+P2507,england-sheerness,希尔内斯,51.45,0.75,Port,GB,United Kingdom,英国,Sheerness,施尔尼斯,,,Kent,Kent
+P2379,england-london bridge,伦敦桥,51.5,-0.08333333,Port,GB,United Kingdom,英国,London,London,,,England,英格兰
+P2252,england-walton-on-the-naze,内兹岬附近－沃尔顿,51.85,1.2833333,Port,GB,United Kingdom,英国,Frinton-on-Sea,滨海弗林顿,,,Essex,Essex
+P2213,england-harwich,哈里奇,51.95,1.2833333,Port,GB,United Kingdom,英国,Harwich,哈里奇,,,Essex,Essex
+P2719,england-lowestoft,洛斯托夫特,52.466667,1.75,Port,GB,United Kingdom,英国,East of England,東英格蘭,,,England,英格兰
+P2629,england-immingham,伊明赫姆,53.633335,-0.18333334,Port,GB,United Kingdom,英国,Immingham,伊明汉姆,,,North East Lincolnshire,东北林肯郡
+P2163,england-river tees entrance,蒂斯河口,54.633335,-1.15,Port,GB,United Kingdom,英国,Yorkshire and the Humber,约克郡-亨伯,,,England,英格兰
+P2906,england-river tyne(north shields),泰恩河畔,55,-1.4333333,Port,GB,United Kingdom,英国,North East England,东北英格兰,,,England,英格兰
+P2136,scotland-leith,利斯,55.983334,-3.1833334,Port,GB,United Kingdom,英国,Edinburgh,爱丁堡,,,Scotland,苏格兰
+P2401,scotland-rosyth,罗赛斯,56.016666,-3.45,Port,GB,United Kingdom,英国,Rosyth,罗赛斯,,,Fife,法夫
+P2406,scotland-aberdeen,阿伯丁,57.15,-2.0666666,Port,GB,United Kingdom,英国,Aberdeenshire,阿伯丁郡,,,Scotland,苏格兰
+P2564,scotland-lerwick,勒威克,60.15,-1.1333333,Port,GB,United Kingdom,英国,Shetland Islands,设得兰,,,Scotland,苏格兰
+P2269,scotland-oban,奥本,56.416668,-5.483333,Port,GB,United Kingdom,英国,Oban,奥本,,,Argyll and Bute,Argyll and Bute
+P2279,scotland-greenock,格里诺克,55.95,-4.766667,Port,GB,United Kingdom,英国,Inverclyde,因弗克莱德,,,Scotland,苏格兰
+P2148,england-liverpool,利物浦,53.4,-3.0166667,Port,GB,United Kingdom,英国,North West England,西北英格蘭,,,England,英格兰
+P2211,wales-holyhead,霍利黑德,53.316666,-4.616667,Port,GB,United Kingdom,英国,Holyhead/caergybi,霍利黑德/卡尔吉比,,,Isle of Anglesey,Isle of Anglesey
+P2506,wales-milford haven,米尔福德港,51.7,-5.05,Port,GB,United Kingdom,英国,Milford Haven,米尔福德港,,,Pembrokeshire,彭布罗克郡
+P2339,wales-swansea,斯旺西,51.616665,-3.9166667,Port,GB,United Kingdom,英国,Swansea,斯旺西,,,Swansea,斯旺西
+P2427,england-port of bristol(avonmouth),布里斯托尔港,51.5,-2.7333333,Port,GB,United Kingdom,英国,port-tideishead,波蒂斯黑德,,,North Somerset,North Somerset
+P2221,ireland-dublin,都柏林,53.35,-6.2166667,Port,IE,Ireland,爱尔兰,Dublin,Dublin,,,County Dublin,都柏林地区
+P2151,northern ireland-belfast,贝尔法斯特,54.6,-5.9166665,Port,GB,United Kingdom,英国,Belfast,贝尔法斯特,,,Northern Ireland,北爱尔兰
+P2124,northern ireland-river foyle(lisahally),福伊尔河,55.05,-7.266667,Port,GB,United Kingdom,英国,Culmore,Culmore,,,Derry and Strabane,Derry and Strabane
+P2840,ireland-galway,戈尔韦,53.266666,-9.05,Port,IE,Ireland,爱尔兰,Galway,戈尔韦,,,County Galway,戈尔韦郡
+P2383,ireland-river shannon(tarbert island),香农河,52.583332,-9.35,Port,IE,Ireland,爱尔兰,Kilrush,Kilrush,,,County Clare,克莱尔郡
+P2915,ireland-cobh,科夫,51.85,-8.3,Port,IE,Ireland,爱尔兰,Cobh,安科芙,,,County Cork,科克郡
+P2899,england-plymouth(devonport),普利茅斯,50.366665,-4.1833334,Port,GB,United Kingdom,英国,Torpoint,Torpoint,,,Cornwall,康沃尔郡
+P2280,england-portland,波特兰,50.566666,-2.4333334,Port,GB,United Kingdom,英国,Fortuneswell,Fortuneswell,,,Dorset,Dorset
+P2928,england-southampton,南安普敦,50.883335,-1.4,Port,GB,United Kingdom,英国,Southampton,南安普敦,,,Southampton,南安普敦
+P2796,england-portsmouth,朴次茅斯,50.8,-1.1166667,Port,GB,United Kingdom,英国,Gosport-tide,戈斯波特,,,Hampshire,汉普郡
+P2156,england-shoreham,肖勒姆,50.833332,-0.25,Port,GB,United Kingdom,英国,South East England,东南英格兰,,,England,英格兰
+P2754,belgium-antwerp,安特卫普,51.35,4.233333,Port,BE,Belgium,比利时,Antwerp,安特卫普省,,,Flemish Region,弗拉芒大区
+P2160,netherlands-vlissingen(flushing),弗利辛恩,51.45,3.6,Port,NL,Netherlands,荷兰,Vlissingen,弗利辛恩,,,Zeeland,泽兰省
+P2330,netherlands-hoek van holland,荷兰角,51.983334,4.116667,Port,NL,Netherlands,荷兰,Hoek van Holland,荷蘭角港,,,South Holland,南荷兰省
+P2265,germany-wilhelmshaven,威廉港,53.516666,8.15,Port,DE,Germany,德国,Wilhelmshaven,Wilhelmshaven,,,Lower Saxony,下萨克森
+P2175,germany-cuxhaven,库克斯港,53.866665,8.716666,Port,DE,Germany,德国,Cuxhaven,库克斯港县,,,Lower Saxony,下萨克森
+P2837,germany-helgoland,黑尔戈兰,54.183334,7.883333,Port,DE,Germany,德国,Pinneberg,Pinneberg,,,Schleswig-Holstein,石勒苏益格-荷尔斯泰因
+P2622,denmark-esbjerg,埃斯比约,55.466667,8.45,Port,DK,Denmark,丹麦,Esbjerg Municipality,Esbjerg Municipality,,,Region of Southern Denmark,Region of Southern Denmark
+P2421,norway-bergen,卑尔根,60.4,5.3,Port,NO,Norway,挪威,Bergen,卑尔根,,,Hordaland,Hordaland
+P2957,norway-trondheim,特隆赫姆,63.433334,10.433333,Port,NO,Norway,挪威,Trondheim Municipality,Trondheim Municipality,,,Trøndelag,特伦德拉格
+P2178,norway-rorvik,勒尔维克,64.86667,11.25,Port,NO,Norway,挪威,Vikna,维克纳,,,Trøndelag,特伦德拉格
+P2691,norway-narvik,纳尔维克,68.433334,17.416666,Port,NO,Norway,挪威,Narvik,纳尔维克,,,Nordland,Nordland
+P2441,russia -yekaterininskiy(kolskiy zaliv),叶卡捷琳宁斯基,69.2,33.466667,Port,RU,Russia,俄罗斯,Polyarnyy,波利亚尔内,,,Murmansk,摩尔曼斯克州
+P2797,russia -port of kem ,凯姆港,64.98333,34.783333,Port,RU,Russia,俄罗斯,Rabochyeostrovsk,Rabochyeostrovsk,,,Kareliya,卡累利阿共和国
+P2209,iceland-reykjavik,雷克雅未克,64.15,-21.933332,Port,IS,Iceland,冰岛,Reykjavik,雷克雅维克,,,Greater Reykjavik,大雷克雅未克区
+P2524,malvinas (falkland) islands-puerto argentina,阿根廷港,-51.683334,-57.866665,Port,FK,Falkland Islands,福克兰群岛,Stanley,阿根廷港,,,Falkland Islands,福克兰群岛
+P2746,chile-cape horn(orange bay),合恩角-奥兰治湾,-55.516666,-68.083336,Port,CL,Chile,智利,Antártica Chilena Province,Antártica Chilena Province,,,Magellan and the Chilean Antarctic Region,Magellan and the Chilean Antarctic Region
+P2112,argentina-punta loyola,洛约拉角,-51.6,-69.01667,Port,AR,Argentina,阿根廷,Río Gallegos,Río Gallegos,,,Santa Cruz Province,Santa Cruz Province
+P2266,argentina-puerto madryn,马德林港,-42.766666,-65.03333,Port,AR,Argentina,阿根廷,Puerto Madryn,马德林港,,,Chubut,丘布特省
+P2586,argentina-puerto belgrano,贝尔格拉诺港,-38.9,-62.1,Port,AR,Argentina,阿根廷,Coronel Rosales,Coronel Rosales,,,Province of Buenos Aires,Province of Buenos Aires
+P2875,argentina-buenos aires,布宜诺斯艾利斯,-34.566666,-58.383335,Port,AR,Argentina,阿根廷,Retiro,Retiro,,,Buenos Aires - Capital Federal,布宜诺斯艾利斯
+P2125,brazil-santos,桑托斯,-23.95,-46.316666,Port,BR,Brazil,巴西,Santos,桑托斯,,,São Paulo,圣保罗州
+P2901,brazil-rio de janeiro,里约热内卢,-22.9,-43.166668,Port,BR,Brazil,巴西,Rio de Janeiro,里约热内卢,,,Rio de Janeiro,里约热内卢州
+P2902,brazil-recife,累西腓,-8.05,-34.866665,Port,BR,Brazil,巴西,Recife,Recife,,,Pernambuco,Pernambuco
+P2936,frence guiana-iles du salut,萨吕群岛,5.2833333,-52.583332,Port,FR,France,法国,arrondissement of Cayenne,arrondissement of Cayenne,,,French Guiana,法属圭亚那
+P2770,surinam-suriname rivier entrance,苏里南河口,6,-55.233334,Port,SR,Suriname,苏里南,Paramaribo,Paramaribo,,,Paramaribo District,帕拉马里博区
+P2491,guyana-georgetown,乔治敦,6.8333335,-58.166668,Port,GY,Guyana,圭亚那,Georgetown,乔治敦,,,Demerara-Mahaica,德梅拉拉-马海卡区
+P2184,venezuela-punta gorda,蓬塔戈尔达,10.166667,-62.633335,Port,VE,Venezuela,委内瑞拉,Pedernales,Pedernales,,,Delta Amacuro,阿马库罗三角洲州
+P2166,trinidad-port of spain,西班牙港,10.65,-61.516666,Port,TT,Trinidad and Tobago,特立尼达和多巴哥,port-tide of Spain,port-tide of Spain,,,port-tide of Spain,port-tide of Spain
+P2704,venezuela-amuay,阿穆艾,11.75,-70.21667,Port,VE,Venezuela,委内瑞拉,Carirubana,Carirubana,,,Falcón,法尔孔州
+P2767,venezuela-maracaibo approaches(malecon),马拉开波,11,-71.583336,Port,VE,Venezuela,委内瑞拉,Mara,Mara,,,Zulia,Zulia
+P2979,panama-colon,科隆,9.35,-79.916664,Port,PA,Panama,巴拿马,Colón,科隆,,,Colón Province,科隆省
+P2145,windward islands-fort-de-france,法兰西堡,14.583333,-61.05,Port,FR,France,法国,Fort-de-France,Fort-de-France,,,Martinique,马提尼克
+P2469,leeward islands-pointe-a-pitre,皮特尔角城,16.233334,-61.533333,Port,FR,France,法国,Pointe-à-Pitre,皮特尔角城,,,Guadeloupe,瓜德罗普
+P2772,puerto rico-san juan,圣胡安,18.466667,-66.01667,Port,PR,Puerto Rico,波多黎各,San Juan,圣胡安,,,San Juan,圣胡安
+P2250,cuba-santiago,圣地亚哥,20.016666,-75.833336,Port,CU,Cuba,古巴,Santiago De Cuba,圣地亚哥-德古巴,,,Santiago de Cuba,圣地亚哥省
+P2607,cuba-matanzas,马坦萨斯,23.066668,-81.55,Port,CU,Cuba,古巴,Matanzas,马坦萨斯,,,Matanzas,马坦萨斯省
+P2657,cuba-maisi,迈西,20.233334,-74.15,Port,HT,Haiti,海地,Mole Saint-Nicolas,Mole Saint-Nicolas,,,North-West,西北省
+P2404,atlantic ocean-bermuda(st.georges island),百慕大,32.383335,-64.7,Port,BM,Bermuda,百慕大群岛,Hamilton,汉密尔顿,,,Hamilton,汉密尔顿
+P2463,u.s.a.-galveston,加尔维斯顿,29.316668,-94.8,Port,US,United States,美国,Galveston County,Galveston County,,,Texas,得克萨斯州
+P2309,u.s.a.-mobile,莫比尔,30.683332,-88.03333,Port,US,United States,美国,Mobile County,莫比尔县,,,Alabama,亚拉巴马州
+P2369,u.s.a.-key west,基韦斯特,24.55,-81.8,Port,US,United States,美国,Monroe County,门罗县,,,Florida,佛罗里达州
+P2413,u.s.a.-miami harbor entrance,迈阿密港,25.766666,-80.13333,Port,US,United States,美国,Miami-Dade County,迈阿密-戴德县,,,Florida,佛罗里达州
+P2294,u.s.a.-charleston,查尔斯顿,32.783333,-79.916664,Port,US,United States,美国,Charleston County,Charleston County,,,South Carolina,南卡罗莱纳
+P2968,u.s.a.-hampton roads,汉普顿锚地,36.95,-76.333336,Port,US,United States,美国,Hampton,汉普顿,,,Virginia,Virginia
+P2320,"u.s.a.-washington,d.c.",华盛顿特区,38.866665,-77.01667,Port,US,United States,美国,Washington,华盛顿,,,District of Columbia,哥伦比亚特区
+P2328,u.s.a.-philadelphia,费城,39.95,-75.13333,Port,US,United States,美国,Philadelphia,费城,,,Pennsylvania,宾夕法尼亚州
+P2435,u.s.a.-sandy hook,桑迪胡克,40.466667,-74.01667,Port,US,United States,美国,Highlands,Highlands,,,New Jersey,新泽西州
+P2956,u.s.a.-boston,波士顿,42.35,-71.05,Port,US,United States,美国,Suffolk County,Suffolk County,,,Massachusetts,马萨诸塞州
+P2282,"canada-saint john,n.b.",圣约翰,45.266666,-66.066666,Port,CA,Canada,加拿大,Saint John,圣约翰,,,New Brunswick,新不伦瑞克省
+P2850,canada-yarmouth,雅茅斯,43.833332,-66.11667,Port,CA,Canada,加拿大,Yarmouth County,Yarmouth County,,,Nova Scotia,新斯科舍
+P2492,canada-halifax,哈利法克斯,44.666668,-63.583332,Port,CA,Canada,加拿大,Halifax,哈利法克斯,,,Nova Scotia,新斯科舍
+P2696,canada-northumberland strait-pictou,诺森伯兰海峡－皮克图,45.683334,-62.7,Port,CA,Canada,加拿大,Pictou,皮克图,,,Nova Scotia,新斯科舍省
+P2844,canada-rustico,拉斯蒂科,46.466667,-63.283333,Port,CA,Canada,加拿大,Cornwall,康沃尔,,,Prince Edward Island,爱德华王子岛省
+P2583,canada-pointe-au-pere,佩尔角,48.516666,-68.46667,Port,CA,Canada,加拿大,Bas-Saint-Laurent,Bas-Saint-Laurent,,,Quebec,魁北克
+P2714,canada-quebec,魁北克,46.833332,-71.166664,Port,CA,Canada,加拿大,Capitale-Nationale,Capitale-Nationale,,,Quebec,魁北克
+P2237,canada-sept iles,七岛港,50.216667,-66.4,Port,CA,Canada,加拿大,Côte-Nord,北岸,,,Quebec,魁北克
+P2667,canada-harrington harbour,哈灵顿港,50.5,-59.483334,Port,CA,Canada,加拿大,Côte-Nord,北岸,,,Quebec,魁北克
+P2392,canada-port aux basques,巴斯克斯港,47.583332,-59.15,Port,CA,Canada,加拿大,Mouse Island,Mouse Island,,,Newfoundland,纽芬兰
+P2676,canada-argentia,阿真舍,47.3,-53.983334,Port,CA,Canada,加拿大,Argentia,Argentia,,,Newfoundland,纽芬兰
+P2641,canada-st.johns harbour,圣约翰斯港,47.566666,-52.7,Port,CA,Canada,加拿大,St. Johns,圣约翰斯,,,Newfoundland and Labrador,纽芬兰-拉布拉多
+P2546,canada-frobisher,弗罗比舍,63.716667,-68.53333,Port,CA,Canada,加拿大,Iqaluit,伊魁特,,,Nunavut,努纳武特
+P2457,greenland-godthaab,戈特霍布,64.183334,-51.75,Port,GL,Greenland,格陵兰,Nuuk,努克,,,Sermersooq,Sermersooq
+P2291,greenland-angmagssalik,昂马沙利克,65.61667,-37.616665,Port,GL,Greenland,格陵兰,Tasiilaq,Tasiilaq,,,Sermersooq,Sermersooq
+P2904,greenland-finsch island,芬什岛,73.98333,-21.133333,Port,GL,Greenland,格陵兰,Zackenberg,Zackenberg,,,Northeast Greenland National Park,东北格陵兰国家公园
+P2331,azores-santa.cruz,圣克鲁斯,39.45,-31.116667,Port,PT,port-tideugal,葡萄牙,Santa Cruz Das Flores,Santa Cruz Das Flores,,,Azores,亚速尔群岛
+P2465,azores-ponta delgada,蓬塔德尔加达,37.733334,-25.666666,Port,PT,port-tideugal,葡萄牙,Ponta Delgada,蓬塔德尔加达,,,Azores,亚速尔群岛
+P2729,madeira islands-porto do funchal,丰沙尔港,32.633335,-16.9,Port,PT,port-tideugal,葡萄牙,Funchal,Funchal,,,Madeira,马德拉
+P2730,cape verde islands－porto grande de s.vicente,圣维森特大港,16.883333,-25,Port,CV,Cape Verde,佛得角,Mindelo,明德卢,,,São Vicente,圣维森特县
+P2206,morocco-dar-el-beida(casablanca),达尔贝达,33.6,-7.616667,Port,MA,Morocco,摩洛哥,Casablanca,达尔贝达,,,Casablanca-Settat,Casablanca-Settat
+P2241,mauritania-nouakchott,努瓦克肖特,18.033333,-16.033333,Port,MR,Mauritania,毛里塔尼亚,Nouakchott,Nouakchott,,,Nouakchott,Nouakchott
+P2132,senegal-dakar,达喀尔,14.666667,-17.416666,Port,SN,Senegal,塞内加尔,Dakar Department,Dakar Department,,,Dakar,达喀尔区
+P2975,guinea-bissau-ilheu de caio,卡约岛,11.833333,-16.316668,Port,GW,Guinea-Bissau,几内亚比绍,Canchungo,Canchungo,,,Cacheu,卡谢乌区
+P2833,guinea-bissau-porto de bubaque,布巴克港,11.3,-15.833333,Port,GW,Guinea-Bissau,几内亚比绍,Bubaque,Bubaque,,,Bolama,博拉马区
+P2994,guinea-conakry,科纳克里,9.5,-13.716666,Port,GN,Guinea,几内亚,Conakry,科纳克里,,,Conakry,科纳克里
+P2765,sierra leone-freetown,弗里敦,8.5,-13.233334,Port,SL,Sierra Leone,塞拉利昂,Freetown,弗里敦,,,Western Area,西部区
+P2999,cote divoire-abidjan,阿比让,5.25,-4,Port,CI,Ivory Coast,科特迪瓦,Abidjan,阿比让,,,Lagunes region,泻湖
+P2823,ghana-takoradi,塔科拉迪,4.883333,-1.75,Port,GH,Ghana,加纳,Takoradi,塔科拉迪,,,Western,西部地区
+P2215,nigeria-bonny town,邦尼镇,4.45,7.1666665,Port,NG,Nigeria,尼日利亚,Bonny,波尼,,,Rivers,河流州
+P2561,cameroun-douala,杜阿拉,4.05,9.666667,Port,CM,Cameroon,喀麦隆,Douala,杜阿拉,,,Littoral,滨海区
+P2655,sao tome e principe-baia de s.antonio,圣安东尼奥湾,1.65,7.4166665,Port,ST,São Tomé and Príncipe,圣多美和普林西比,Santo Antonio,圣安东尼奥,,,Príncipe,普林西比岛
+P2258,san tome e principe－baia de ana chaves,安娜沙维什湾,0.35,6.75,Port,ST,São Tomé and Príncipe,圣多美和普林西比,São Tomé,São Tomé,,,São Tomé Province,São Tomé Province
+P2577,republic of gabon-libreville,利伯维尔,0.38333333,9.433333,Port,GA,Gabon,加蓬,Libreville,Libreville,,,Estuaire Province,Estuaire Province
+P2856,republic of the congo- pointe noire,黑角,-4.7833333,11.833333,Port,CG,Republic of the Congo,刚果共和国,Pointe-Noire,黑角,,,Pointe-Noire,黑角
+P2274,angola-porto de luanda,罗安达港,-8.783334,13.233334,Port,AO,Angola,安哥拉,Luanda,罗安达,,,Luanda Province,罗安达省
+P2690,angola-porto do lobito,洛比托港,-12.333333,13.566667,Port,AO,Angola,安哥拉,Lobito,洛比托,,,Benguela,本吉拉省
+P2514,namibia-walvis bay,鲸湾港,-22.95,14.5,Port,NA,Namibia,纳米比亚,Walvis Bay,鲸湾港,,,Erongo,埃龙戈区
+P2812,south africa-cape town,开普敦,-33.9,18.433332,Port,ZA,South Africa,南非,Cape Town,开普敦,,,Western Cape,西开普省
+P2698,south africa-east london,东伦敦,-33.033333,27.916666,Port,ZA,South Africa,南非,Duncan Village,邓肯村,,,Eastern Cape,东开普省
+P2596,south africa-durban,德班,-29.866667,31.05,Port,ZA,South Africa,南非,eThekwini,德班大都会自治市,,,KwaZulu-Natal,夸祖鲁-纳塔尔省
+P2858,mocambique-porto do maputo,马普托港,-25.983334,32.566666,Port,MZ,Mozambique,莫桑比克,Maputo,马普托,,,Maputo,马普托
+P2771,mocambique-beira,贝拉,-19.816668,34.833332,Port,MZ,Mozambique,莫桑比克,Beira,贝拉,,,Sofala,索法拉省
+P2917,mocambique-porto de mocambique,莫桑比克港,-15.033334,40.733334,Port,MZ,Mozambique,莫桑比克,Island of Mozambique,莫桑比克岛,,,Nampula,楠普拉
+P2854,madagascar-andoany,安杜阿尼,-13.4,48.3,Port,MG,Madagascar,马达加斯加,Hell-Ville,埃尔维尔,,,Antsiranana,安齐拉纳纳省
+P2358,madagascar-toliara,图莱亚尔,-23.383333,43.666668,Port,MG,Madagascar,马达加斯加,Toliara,图利亚拉,,,Toliara Province,Toliara Province
+P2476,madagascar-toamasina,图阿马西纳,-18.133333,49.433334,Port,MG,Madagascar,马达加斯加,Toamasina,Toamasina,,,Toamasina Province,图阿马西纳省
+P2978,madagascar-antsiranana,安采拉纳纳,-12.25,49.316666,Port,MG,Madagascar,马达加斯加,Antsiranana,安齐拉纳纳,,,Antsiranana Province,Antsiranana Province
+P2625,la reunion-pointe des galets,加莱角,-20.916666,55.283333,Port,RE,Reunion,留尼旺,Le port-tide,勒波尔,,,Saint-Paul,圣保罗
+P2863,mayotte-dzaoudzi,藻德济,-12.783334,45.25,Port,FR,France,法国,Mamoudzou,马穆楚,,,Mayotte,马约特
+P2614,ceychelles-port victoria,维多利亚港,-4.616667,55.45,Port,SC,Seychelles,赛舌尔,Victoria,维多利亚,,,Bel Air,贝尔艾尔区
+P2296,tanzania-dar es salaam,达累斯萨拉姆,-6.8333335,39.283333,Port,TZ,Tanzania,坦桑尼亚,Dar es Salaam,Dar es Salaam,,,Dar es Salaam,Dar es Salaam
+P2525,kenya-kilindini,基林迪尼,-4.0666666,39.65,Port,KE,Kenya,肯尼亚,Mombasa,蒙巴萨,,,Coast Province,Coast Province
