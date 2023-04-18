@@ -1,4 +1,4 @@
-China-City-List v202304170,,,,,,,,,,,,,
+China-City-List v202304180,,,,,,,,,,,,,
 Location_ID,Location_Name_EN,Location_Name_ZH,ISO_3166_1,Country_Region_EN,Country_Region_ZH,Adm1_Name_EN,Adm1_Name_ZH,Adm2_Name_EN,Adm2_Name_ZH,Timezone,Latitude,Longitude,Adcode
 101010100,Beijing,北京,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,39.904987,116.405289,110000
 101010200,Haidian,海淀,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,39.956074,116.310318,110108
