@@ -2194,7 +2194,7 @@ Location_ID,Location_Name_EN,Location_Name_ZH,ISO_3166_1,Country_Region_EN,Count
 101230910,Jian'ou,建瓯,CN,China,中国,Fujian,福建省,Nanping,南平市,Asia/Shanghai,27.035021,118.321762,350783
 101230911,Yanping,延平,CN,China,中国,Fujian,福建省,Nanping,南平市,Asia/Shanghai,26.63608,118.178917,350702
 101240101,Nanchang,南昌,CN,China,中国,Jiangxi,江西省,Nanchang,南昌市,Asia/Shanghai,28.676493,115.892151,360100
-101240102,Xinjian district,新建,CN,China,中国,Jiangxi,江西省,Nanchang,南昌市,Asia/Shanghai,28.690788,115.820808,360112
+101240102,Xinjian,新建,CN,China,中国,Jiangxi,江西省,Nanchang,南昌市,Asia/Shanghai,28.690788,115.820808,360112
 101240103,Nanchang County,南昌县,CN,China,中国,Jiangxi,江西省,Nanchang,南昌市,Asia/Shanghai,28.543781,115.942467,360121
 101240104,Anyi,安义,CN,China,中国,Jiangxi,江西省,Nanchang,南昌市,Asia/Shanghai,28.841333,115.553108,360123
 101240105,Jinxian,进贤,CN,China,中国,Jiangxi,江西省,Nanchang,南昌市,Asia/Shanghai,28.365681,116.26767,360124
@@ -2788,8 +2788,8 @@ Location_ID,Location_Name_EN,Location_Name_ZH,ISO_3166_1,Country_Region_EN,Count
 101280507,Haojiang,濠江,CN,China,中国,Guangdong,广东省,Shantou,汕头市,Asia/Shanghai,23.279345,116.72953,440512
 101280508,Chaonan,潮南,CN,China,中国,Guangdong,广东省,Shantou,汕头市,Asia/Shanghai,23.249798,116.423607,440514
 101280601,Shenzhen,深圳,CN,China,中国,Guangdong,广东省,Shenzhen,深圳市,Asia/Shanghai,22.547001,114.085945,440300
-101280602,Luohu district,罗湖,CN,China,中国,Guangdong,广东省,Shenzhen,深圳市,Asia/Shanghai,22.555342,114.123886,440303
-101280603,Futian district,福田,CN,China,中国,Guangdong,广东省,Shenzhen,深圳市,Asia/Shanghai,22.54101,114.050957,440304
+101280602,Luohu,罗湖,CN,China,中国,Guangdong,广东省,Shenzhen,深圳市,Asia/Shanghai,22.555342,114.123886,440303
+101280603,Futian,福田,CN,China,中国,Guangdong,广东省,Shenzhen,深圳市,Asia/Shanghai,22.54101,114.050957,440304
 101280604,Nanshan,南山,CN,China,中国,Guangdong,广东省,Shenzhen,深圳市,Asia/Shanghai,22.531221,113.929428,440305
 101280605,Bao'an,宝安,CN,China,中国,Guangdong,广东省,Shenzhen,深圳市,Asia/Shanghai,22.560078,113.901024,440306
 101280606,Longgang,龙岗,CN,China,中国,Guangdong,广东省,Shenzhen,深圳市,Asia/Shanghai,22.721512,114.251373,440307
