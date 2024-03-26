@@ -1510,7 +1510,7 @@ Location_ID,Location_Name_EN,Location_Name_ZH,ISO_3166_1,Country_Region_EN,Count
 101180305,Weihui,卫辉,CN,China,中国,Henan,河南省,Xinxiang,新乡市,Asia/Shanghai,35.4043,114.0659,410781
 101180306,Yanjin,延津,CN,China,中国,Henan,河南省,Xinxiang,新乡市,Asia/Shanghai,35.1495,114.201,410726
 101180307,Fengqiu,封丘,CN,China,中国,Henan,河南省,Xinxiang,新乡市,Asia/Shanghai,35.0406,114.4234,410727
-101180308,Changyuan,长垣,CN,China,中国,Henan,河南省,Xinxiang,新乡市,Asia/Shanghai,35.1962,114.6738,410728
+101180308,Changyuan,长垣,CN,China,中国,Henan,河南省,Xinxiang,新乡市,Asia/Shanghai,35.1962,114.6738,410783
 101180309,Hongqi,红旗,CN,China,中国,Henan,河南省,Xinxiang,新乡市,Asia/Shanghai,35.3027,113.8782,410702
 101180310,Weibin,卫滨,CN,China,中国,Henan,河南省,Xinxiang,新乡市,Asia/Shanghai,35.3049,113.8661,410703
 101180311,Fengquan,凤泉,CN,China,中国,Henan,河南省,Xinxiang,新乡市,Asia/Shanghai,35.3799,113.9067,410704
@@ -1621,7 +1621,7 @@ Location_ID,Location_Name_EN,Location_Name_ZH,ISO_3166_1,Country_Region_EN,Count
 101181401,Zhoukou,周口,CN,China,中国,Henan,河南省,Zhoukou,周口市,Asia/Shanghai,33.6204,114.6497,"411601,411600"
 101181402,Fugou,扶沟,CN,China,中国,Henan,河南省,Zhoukou,周口市,Asia/Shanghai,34.0541,114.392,411621
 101181403,Taikang,太康,CN,China,中国,Henan,河南省,Zhoukou,周口市,Asia/Shanghai,34.0653,114.8538,411627
-101181404,Huaiyang,淮阳,CN,China,中国,Henan,河南省,Zhoukou,周口市,Asia/Shanghai,33.7325,114.8702,411626
+101181404,Huaiyang,淮阳,CN,China,中国,Henan,河南省,Zhoukou,周口市,Asia/Shanghai,33.7325,114.8702,411603
 101181405,Xihua,西华,CN,China,中国,Henan,河南省,Zhoukou,周口市,Asia/Shanghai,33.7844,114.5301,411622
 101181406,Shangshui,商水,CN,China,中国,Henan,河南省,Zhoukou,周口市,Asia/Shanghai,33.5438,114.6093,411623
 101181407,Xiangcheng,项城,CN,China,中国,Henan,河南省,Zhoukou,周口市,Asia/Shanghai,33.4431,114.8995,411681
