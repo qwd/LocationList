@@ -1,4 +1,4 @@
-China-City-List v202408310,,,,,,,,,,,,,
+China-City-List v202506150,,,,,,,,,,,,,
 Location_ID,Location_Name_EN,Location_Name_ZH,ISO_3166_1,Country_Region_EN,Country_Region_ZH,Adm1_Name_EN,Adm1_Name_ZH,Adm2_Name_EN,Adm2_Name_ZH,Timezone,Latitude,Longitude,AD_code
 101010100,Beijing,北京,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,39.9050,116.4053,110000
 101010200,Haidian,海淀,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,39.9561,116.3103,110108
@@ -170,6 +170,7 @@ Location_ID,Location_Name_EN,Location_Name_ZH,ISO_3166_1,Country_Region_EN,Count
 101050702,Tahe,塔河,CN,China,中国,Heilongjiang,黑龙江省,Daxing'anling Prefecture,大兴安岭地区,Asia/Shanghai,52.3352,124.7105,232722
 101050703,Mohe,漠河,CN,China,中国,Heilongjiang,黑龙江省,Daxing'anling Prefecture,大兴安岭地区,Asia/Shanghai,52.9721,122.5363,232701
 101050704,Huma,呼玛,CN,China,中国,Heilongjiang,黑龙江省,Daxing'anling Prefecture,大兴安岭地区,Asia/Shanghai,51.7270,126.6621,232721
+101050708,Jiagedaqi,加格达奇区,CN,China,中国,Heilongjiang,黑龙江省,Daxing'anling Prefecture,大兴安岭地区,Asia/Shanghai,50.4088,124.1397,232761
 101050801,Yichun,伊春,CN,China,中国,Heilongjiang,黑龙江省,Yichun,伊春市,Asia/Shanghai,47.7269,128.8993,230700
 101050804,Tieli,铁力,CN,China,中国,Heilongjiang,黑龙江省,Yichun,伊春市,Asia/Shanghai,46.9858,128.0306,230781
 101050805,Jiayin,嘉荫,CN,China,中国,Heilongjiang,黑龙江省,Yichun,伊春市,Asia/Shanghai,48.8914,130.3977,230722
@@ -2180,7 +2181,6 @@ Location_ID,Location_Name_EN,Location_Name_ZH,ISO_3166_1,Country_Region_EN,Count
 101230809,Youxi,尤溪,CN,China,中国,Fujian,福建省,Sanming,三明市,Asia/Shanghai,26.1693,118.1886,350426
 101230810,Yongan,永安,CN,China,中国,Fujian,福建省,Sanming,三明市,Asia/Shanghai,25.9741,117.3644,350481
 101230811,Datian,大田,CN,China,中国,Fujian,福建省,Sanming,三明市,Asia/Shanghai,25.6908,117.8494,350425
-101230812,Melie district,梅列,CN,China,中国,Fujian,福建省,Sanming,三明市,Asia/Shanghai,26.2692,117.6369,350402
 101230813,Sanyuan,三元,CN,China,中国,Fujian,福建省,Sanming,三明市,Asia/Shanghai,26.2717,117.6462,350404
 101230901,Nanping,南平,CN,China,中国,Fujian,福建省,Nanping,南平市,Asia/Shanghai,27.3828,118.0813,350700
 101230902,Shunchang,顺昌,CN,China,中国,Fujian,福建省,Nanping,南平市,Asia/Shanghai,26.7929,117.8077,350721
