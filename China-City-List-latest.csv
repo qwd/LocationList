@@ -1,4 +1,4 @@
-China-City-List v202506150,,,,,,,,,,,,,
+China-City-List v202506200,,,,,,,,,,,,,
 Location_ID,Location_Name_EN,Location_Name_ZH,ISO_3166_1,Country_Region_EN,Country_Region_ZH,Adm1_Name_EN,Adm1_Name_ZH,Adm2_Name_EN,Adm2_Name_ZH,Timezone,Latitude,Longitude,AD_code
 101010100,Beijing,北京,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,39.9050,116.4053,110000
 101010200,Haidian,海淀,CN,China,中国,Beijing,北京市,Beijing,北京市,Asia/Shanghai,39.9561,116.3103,110108
@@ -1220,6 +1220,7 @@ Location_ID,Location_Name_EN,Location_Name_ZH,ISO_3166_1,Country_Region_EN,Count
 101132301,Kokdala,可克达拉,CN,China,中国,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,Kokdala,可克达拉市,Asia/Shanghai,43.9404,80.9942,659008
 101132401,Huyanghe,胡杨河,CN,China,中国,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,Huyanghe,胡杨河市,Asia/Shanghai,44.6926,84.8275,659010
 101132501,Xinxing,新星市,CN,China,中国,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,Xinxing,新星市,Asia/Shanghai,42.7966,93.7485,659011
+101132601,Baiyang,白杨市,CN,China,中国,Xinjiang Uygur Autonomous Region,新疆维吾尔自治区,Baiyang,白杨市,Asia/Shanghai,46.7266,82.8947,659012
 101140101,Lhasa,拉萨,CN,China,中国,Tibet Autonomous Region,西藏自治区,Lhasa,拉萨市,Asia/Shanghai,29.6604,91.1322,540100
 101140102,Damxung,当雄,CN,China,中国,Tibet Autonomous Region,西藏自治区,Lhasa,拉萨市,Asia/Shanghai,30.4748,91.1036,540122
 101140103,Nyêmo,尼木,CN,China,中国,Tibet Autonomous Region,西藏自治区,Lhasa,拉萨市,Asia/Shanghai,29.4313,90.1655,540123
